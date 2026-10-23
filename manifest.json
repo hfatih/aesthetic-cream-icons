@@ -1,17 +1,22 @@
 {
   "formatVersion": "1.0.0",
   "name": "Pink Cream Icons",
-  "description": "3D clay and jelly aesthetic icon suite for Elgato Stream Deck & evoX.",
+  "description": "3D clay and glossy candy aesthetic icon suite for Elgato Stream Deck & evoX. Features curated streamer, gaming, creator, and productivity symbols in two signature finishes: Cream (Warm Ivory) and Pink (Bubblegum Candy).",
   "version": "1.0.0",
   "author": "Hfatih",
-  "createdAt": "2026-10-23T22:12:42.783786Z",
-  "updatedAt": "2026-10-23T22:12:42.783786Z",
+  "createdAt": "2026-10-23T22:31:31.989865Z",
+  "updatedAt": "2026-10-23T22:31:31.989865Z",
   "homepage": "https://github.com/Hfatih/pink-cream-icons",
   "license": "MIT",
   "categories": [
-    "Icons - Cream",
-    "Icons - Pink",
-    "Icons - Transparent"
+    "Streaming - Cream",
+    "Gaming - Cream",
+    "Social - Cream",
+    "Productivity - Cream",
+    "Streaming - Pink",
+    "Gaming - Pink",
+    "Social - Pink",
+    "Productivity - Pink"
   ],
   "tags": [
     "pink",
@@ -31,2881 +36,3277 @@
     {
       "id": "pink-cream-cream-001-twitch",
       "name": "Twitch (Cream)",
-      "category": "Icons - Cream",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-001-twitch.png",
       "tags": [
+        "twitch",
+        "stream",
+        "live",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "twitch"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-002-youtube",
-      "name": "Youtube (Cream)",
-      "category": "Icons - Cream",
+      "name": "YouTube (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-002-youtube.png",
       "tags": [
+        "youtube",
+        "video",
+        "stream",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "youtube"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-003-spotify",
       "name": "Spotify (Cream)",
-      "category": "Icons - Cream",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-003-spotify.png",
       "tags": [
+        "spotify",
+        "music",
+        "audio",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "spotify"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-004-netflix",
       "name": "Netflix (Cream)",
-      "category": "Icons - Cream",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-004-netflix.png",
       "tags": [
+        "netflix",
+        "movies",
+        "stream",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "netflix"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-005-prime-video",
       "name": "Prime Video (Cream)",
-      "category": "Icons - Cream",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-005-prime-video.png",
       "tags": [
+        "prime",
+        "amazon",
+        "video",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "prime-video"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-006-disney-plus",
-      "name": "Disney Plus (Cream)",
-      "category": "Icons - Cream",
+      "name": "Disney+ (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-006-disney-plus.png",
       "tags": [
+        "disney",
+        "movies",
+        "plus",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "disney-plus"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-007-kitty-headset",
       "name": "Kitty Headset (Cream)",
-      "category": "Icons - Cream",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-007-kitty-headset.png",
       "tags": [
+        "headset",
+        "cat",
+        "kitty",
+        "audio",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "kitty-headset"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-008-headphones",
       "name": "Headphones (Cream)",
-      "category": "Icons - Cream",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-008-headphones.png",
       "tags": [
+        "headphones",
+        "audio",
+        "listen",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "headphones"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-009-webcam",
-      "name": "Webcam (Cream)",
-      "category": "Icons - Cream",
+      "name": "Webcam Device (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-009-webcam.png",
       "tags": [
+        "webcam",
+        "camera",
+        "stream",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "webcam"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-010-camera",
-      "name": "Camera (Cream)",
-      "category": "Icons - Cream",
+      "name": "Retro Camera (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-010-camera.png",
       "tags": [
+        "camera",
+        "photo",
+        "record",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "camera"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-011-microphone",
-      "name": "Microphone (Cream)",
-      "category": "Icons - Cream",
+      "name": "Studio Mic (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-011-microphone.png",
       "tags": [
+        "mic",
+        "microphone",
+        "audio",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "microphone"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-012-usb-mic",
-      "name": "Usb Mic (Cream)",
-      "category": "Icons - Cream",
+      "name": "USB Desk Mic (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-012-usb-mic.png",
       "tags": [
+        "mic",
+        "usb",
+        "razer",
+        "voice",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "usb-mic"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-013-audio-waveform",
       "name": "Audio Waveform (Cream)",
-      "category": "Icons - Cream",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-013-audio-waveform.png",
       "tags": [
+        "waveform",
+        "audio",
+        "eq",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "audio-waveform"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-014-music",
-      "name": "Music (Cream)",
-      "category": "Icons - Cream",
+      "name": "Music Disc (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-014-music.png",
       "tags": [
+        "music",
+        "song",
+        "audio",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "music"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-015-music-note-alt",
-      "name": "Music Note Alt (Cream)",
-      "category": "Icons - Cream",
+      "name": "Music Note Sparkle (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-015-music-note-alt.png",
       "tags": [
+        "note",
+        "melody",
+        "sparkle",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "music-note-alt"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-016-play-pause",
-      "name": "Play Pause (Cream)",
-      "category": "Icons - Cream",
+      "name": "Play / Pause (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-016-play-pause.png",
       "tags": [
+        "play",
+        "pause",
+        "media",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "play-pause"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-017-previous",
-      "name": "Previous (Cream)",
-      "category": "Icons - Cream",
+      "name": "Previous Track (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-017-previous.png",
       "tags": [
+        "prev",
+        "back",
+        "media",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "previous"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-018-next",
-      "name": "Next (Cream)",
-      "category": "Icons - Cream",
+      "name": "Next Track (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-018-next.png",
       "tags": [
+        "next",
+        "skip",
+        "media",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "next"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-019-shuffle",
-      "name": "Shuffle (Cream)",
-      "category": "Icons - Cream",
+      "name": "Shuffle Tracks (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-019-shuffle.png",
       "tags": [
+        "shuffle",
+        "random",
+        "media",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "shuffle"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-020-repeat",
-      "name": "Repeat (Cream)",
-      "category": "Icons - Cream",
+      "name": "Repeat Track (Cream)",
+      "category": "Streaming - Cream",
       "path": "icons/pink-cream-cream-020-repeat.png",
       "tags": [
+        "repeat",
+        "loop",
+        "media",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "repeat"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-021-steam",
       "name": "Steam (Cream)",
-      "category": "Icons - Cream",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-021-steam.png",
       "tags": [
+        "steam",
+        "valve",
+        "gaming",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "steam"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-022-epic-games",
       "name": "Epic Games (Cream)",
-      "category": "Icons - Cream",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-022-epic-games.png",
       "tags": [
+        "epic",
+        "store",
+        "fortnite",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "epic-games"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-023-ea-app",
-      "name": "Ea App (Cream)",
-      "category": "Icons - Cream",
+      "name": "EA App (Cream)",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-023-ea-app.png",
       "tags": [
+        "ea",
+        "origin",
+        "games",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "ea-app"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-024-discord",
       "name": "Discord (Cream)",
-      "category": "Icons - Cream",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-024-discord.png",
       "tags": [
+        "discord",
+        "voice",
+        "chat",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "discord"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-025-computer-on",
-      "name": "Computer On (Cream)",
-      "category": "Icons - Cream",
+      "name": "Retro PC (Playing) (Cream)",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-025-computer-on.png",
       "tags": [
+        "pc",
+        "computer",
+        "retro",
+        "game",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "computer-on"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-026-computer-off",
-      "name": "Computer Off (Cream)",
-      "category": "Icons - Cream",
+      "name": "Retro PC (Off) (Cream)",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-026-computer-off.png",
       "tags": [
+        "pc",
+        "computer",
+        "retro",
+        "off",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "computer-off"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-027-controls",
-      "name": "Controls (Cream)",
-      "category": "Icons - Cream",
+      "name": "Controls Sliders (Cream)",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-027-controls.png",
       "tags": [
+        "controls",
+        "mix",
+        "sliders",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "controls"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-028-settings",
-      "name": "Settings (Cream)",
-      "category": "Icons - Cream",
+      "name": "Settings Sparkle (Cream)",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-028-settings.png",
       "tags": [
+        "settings",
+        "gear",
+        "config",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "settings"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-029-home",
-      "name": "Home (Cream)",
-      "category": "Icons - Cream",
+      "name": "Cozy Cottage Home (Cream)",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-029-home.png",
       "tags": [
+        "home",
+        "cottage",
+        "house",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "home"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-030-sleep",
-      "name": "Sleep (Cream)",
-      "category": "Icons - Cream",
+      "name": "Sleep Crescent Moon (Cream)",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-030-sleep.png",
       "tags": [
+        "sleep",
+        "moon",
+        "night",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "sleep"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-031-lock",
-      "name": "Lock (Cream)",
-      "category": "Icons - Cream",
+      "name": "Heart Padlock (Cream)",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-031-lock.png",
       "tags": [
+        "lock",
+        "heart",
+        "security",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "lock"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-032-save",
-      "name": "Save (Cream)",
-      "category": "Icons - Cream",
+      "name": "Save Floppy Disk (Cream)",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-032-save.png",
       "tags": [
+        "save",
+        "disk",
+        "floppy",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "save"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-033-search",
-      "name": "Search (Cream)",
-      "category": "Icons - Cream",
+      "name": "Search Sparkle Glass (Cream)",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-033-search.png",
       "tags": [
+        "search",
+        "find",
+        "sparkle",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "search"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-034-trash",
-      "name": "Trash (Cream)",
-      "category": "Icons - Cream",
+      "name": "Trash Bin (Cream)",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-034-trash.png",
       "tags": [
+        "trash",
+        "delete",
+        "remove",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "trash"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-035-battery",
-      "name": "Battery (Cream)",
-      "category": "Icons - Cream",
+      "name": "Battery Charging (Cream)",
+      "category": "Gaming - Cream",
       "path": "icons/pink-cream-cream-035-battery.png",
       "tags": [
+        "battery",
+        "charge",
+        "power",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "battery"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-036-tiktok",
-      "name": "Tiktok (Cream)",
-      "category": "Icons - Cream",
+      "name": "TikTok (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-036-tiktok.png",
       "tags": [
+        "tiktok",
+        "video",
+        "shorts",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "tiktok"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-037-chat",
-      "name": "Chat (Cream)",
-      "category": "Icons - Cream",
+      "name": "Chat Bubbles (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-037-chat.png",
       "tags": [
+        "chat",
+        "message",
+        "bubbles",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "chat"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-038-email",
-      "name": "Email (Cream)",
-      "category": "Icons - Cream",
+      "name": "Sparkle Email (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-038-email.png",
       "tags": [
+        "email",
+        "mail",
+        "envelope",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "email"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-039-gmail",
       "name": "Gmail (Cream)",
-      "category": "Icons - Cream",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-039-gmail.png",
       "tags": [
+        "gmail",
+        "google",
+        "mail",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "gmail"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-040-microsoft-outlook",
       "name": "Microsoft Outlook (Cream)",
-      "category": "Icons - Cream",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-040-microsoft-outlook.png",
       "tags": [
+        "outlook",
+        "microsoft",
+        "mail",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "microsoft-outlook"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-041-notes",
-      "name": "Notes (Cream)",
-      "category": "Icons - Cream",
+      "name": "Notes Clipboard (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-041-notes.png",
       "tags": [
+        "notes",
+        "memo",
+        "clipboard",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "notes"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-042-calendar",
-      "name": "Calendar (Cream)",
-      "category": "Icons - Cream",
+      "name": "Heart Calendar (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-042-calendar.png",
       "tags": [
+        "calendar",
+        "date",
+        "heart",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "calendar"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-043-power",
-      "name": "Power (Cream)",
-      "category": "Icons - Cream",
+      "name": "Power Switch (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-043-power.png",
       "tags": [
+        "power",
+        "shutdown",
+        "off",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "power"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-044-brightness",
-      "name": "Brightness (Cream)",
-      "category": "Icons - Cream",
+      "name": "Brightness Sun (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-044-brightness.png",
       "tags": [
+        "brightness",
+        "sun",
+        "display",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "brightness"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-045-windows",
-      "name": "Windows (Cream)",
-      "category": "Icons - Cream",
+      "name": "Windows 11 (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-045-windows.png",
       "tags": [
+        "windows",
+        "os",
+        "microsoft",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "windows"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-046-pink-sparkle",
-      "name": "Pink Sparkle (Cream)",
-      "category": "Icons - Cream",
+      "name": "Pink Sparkle Star (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-046-pink-sparkle.png",
       "tags": [
+        "sparkle",
+        "star",
+        "pink",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "pink-sparkle"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-047-cream-sparkle",
-      "name": "Cream Sparkle (Cream)",
-      "category": "Icons - Cream",
+      "name": "Cream Sparkle Star (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-047-cream-sparkle.png",
       "tags": [
+        "sparkle",
+        "star",
+        "cream",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "cream-sparkle"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-048-up-arrow",
-      "name": "Up Arrow (Cream)",
-      "category": "Icons - Cream",
+      "name": "Up Arrow Orbit (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-048-up-arrow.png",
       "tags": [
+        "arrow",
+        "up",
+        "orbit",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "up-arrow"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-049-down-arrow",
-      "name": "Down Arrow (Cream)",
-      "category": "Icons - Cream",
+      "name": "Down Arrow Orbit (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-049-down-arrow.png",
       "tags": [
+        "arrow",
+        "down",
+        "orbit",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "down-arrow"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-050-right-arrow",
-      "name": "Right Arrow (Cream)",
-      "category": "Icons - Cream",
+      "name": "Right Arrow Orbit (Cream)",
+      "category": "Social - Cream",
       "path": "icons/pink-cream-cream-050-right-arrow.png",
       "tags": [
+        "arrow",
+        "right",
+        "orbit",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "right-arrow"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-051-google-drive",
       "name": "Google Drive (Cream)",
-      "category": "Icons - Cream",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-051-google-drive.png",
       "tags": [
+        "drive",
+        "google",
+        "cloud",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "google-drive"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-052-google-photos",
       "name": "Google Photos (Cream)",
-      "category": "Icons - Cream",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-052-google-photos.png",
       "tags": [
+        "photos",
+        "google",
+        "gallery",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "google-photos"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-053-dropbox",
       "name": "Dropbox (Cream)",
-      "category": "Icons - Cream",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-053-dropbox.png",
       "tags": [
+        "dropbox",
+        "box",
+        "cloud",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "dropbox"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-054-cloud-transfer",
       "name": "Cloud Transfer (Cream)",
-      "category": "Icons - Cream",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-054-cloud-transfer.png",
       "tags": [
+        "cloud",
+        "transfer",
+        "sync",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "cloud-transfer"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-055-upload",
-      "name": "Upload (Cream)",
-      "category": "Icons - Cream",
+      "name": "Upload Tray Orbit (Cream)",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-055-upload.png",
       "tags": [
+        "upload",
+        "tray",
+        "orbit",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "upload"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-056-download",
-      "name": "Download (Cream)",
-      "category": "Icons - Cream",
+      "name": "Download Tray Orbit (Cream)",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-056-download.png",
       "tags": [
+        "download",
+        "tray",
+        "orbit",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "download"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-057-folder",
-      "name": "Folder (Cream)",
-      "category": "Icons - Cream",
+      "name": "Folder Closed (Cream)",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-057-folder.png",
       "tags": [
+        "folder",
+        "files",
+        "archive",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "folder"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-058-folder-open",
-      "name": "Folder Open (Cream)",
-      "category": "Icons - Cream",
+      "name": "Folder Open Sparkle (Cream)",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-058-folder-open.png",
       "tags": [
+        "folder",
+        "open",
+        "sparkle",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "folder-open"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-059-documents",
-      "name": "Documents (Cream)",
-      "category": "Icons - Cream",
+      "name": "Document Lines (Cream)",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-059-documents.png",
       "tags": [
+        "document",
+        "text",
+        "file",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "documents"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-060-documents-folded",
-      "name": "Documents Folded (Cream)",
-      "category": "Icons - Cream",
+      "name": "Document Folded (Cream)",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-060-documents-folded.png",
       "tags": [
+        "document",
+        "fold",
+        "page",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "documents-folded"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-061-calculator",
-      "name": "Calculator (Cream)",
-      "category": "Icons - Cream",
+      "name": "Cute Calculator (Cream)",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-061-calculator.png",
       "tags": [
+        "calculator",
+        "calc",
+        "math",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "calculator"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-062-microsoft-office",
-      "name": "Microsoft Office (Cream)",
-      "category": "Icons - Cream",
+      "name": "Microsoft 365 Office (Cream)",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-062-microsoft-office.png",
       "tags": [
+        "office",
+        "word",
+        "excel",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "microsoft-office"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-063-left-arrow",
-      "name": "Left Arrow (Cream)",
-      "category": "Icons - Cream",
+      "name": "Left Arrow Orbit (Cream)",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-063-left-arrow.png",
       "tags": [
+        "arrow",
+        "left",
+        "orbit",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "left-arrow"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-cream-064-blank",
-      "name": "Blank (Cream)",
-      "category": "Icons - Cream",
+      "name": "Blank Squircle (Cream)",
+      "category": "Productivity - Cream",
       "path": "icons/pink-cream-cream-064-blank.png",
       "tags": [
+        "blank",
+        "empty",
+        "tile",
+        "cream",
         "cream",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "blank"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-001-twitch",
       "name": "Twitch (Pink)",
-      "category": "Icons - Pink",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-001-twitch.png",
       "tags": [
+        "twitch",
+        "stream",
+        "live",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "twitch"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-002-youtube",
-      "name": "Youtube (Pink)",
-      "category": "Icons - Pink",
+      "name": "YouTube (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-002-youtube.png",
       "tags": [
+        "youtube",
+        "video",
+        "stream",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "youtube"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-003-spotify",
       "name": "Spotify (Pink)",
-      "category": "Icons - Pink",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-003-spotify.png",
       "tags": [
+        "spotify",
+        "music",
+        "audio",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "spotify"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-004-netflix",
       "name": "Netflix (Pink)",
-      "category": "Icons - Pink",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-004-netflix.png",
       "tags": [
+        "netflix",
+        "movies",
+        "stream",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "netflix"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-005-prime-video",
       "name": "Prime Video (Pink)",
-      "category": "Icons - Pink",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-005-prime-video.png",
       "tags": [
+        "prime",
+        "amazon",
+        "video",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "prime-video"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-006-disney-plus",
-      "name": "Disney Plus (Pink)",
-      "category": "Icons - Pink",
+      "name": "Disney+ (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-006-disney-plus.png",
       "tags": [
+        "disney",
+        "movies",
+        "plus",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "disney-plus"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-007-kitty-headset",
       "name": "Kitty Headset (Pink)",
-      "category": "Icons - Pink",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-007-kitty-headset.png",
       "tags": [
+        "headset",
+        "cat",
+        "kitty",
+        "audio",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "kitty-headset"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-008-headphones",
       "name": "Headphones (Pink)",
-      "category": "Icons - Pink",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-008-headphones.png",
       "tags": [
+        "headphones",
+        "audio",
+        "listen",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "headphones"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-009-webcam",
-      "name": "Webcam (Pink)",
-      "category": "Icons - Pink",
+      "name": "Webcam Device (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-009-webcam.png",
       "tags": [
+        "webcam",
+        "camera",
+        "stream",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "webcam"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-010-camera",
-      "name": "Camera (Pink)",
-      "category": "Icons - Pink",
+      "name": "Retro Camera (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-010-camera.png",
       "tags": [
+        "camera",
+        "photo",
+        "record",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "camera"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-011-microphone",
-      "name": "Microphone (Pink)",
-      "category": "Icons - Pink",
+      "name": "Studio Mic (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-011-microphone.png",
       "tags": [
+        "mic",
+        "microphone",
+        "audio",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "microphone"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-012-usb-mic",
-      "name": "Usb Mic (Pink)",
-      "category": "Icons - Pink",
+      "name": "USB Desk Mic (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-012-usb-mic.png",
       "tags": [
+        "mic",
+        "usb",
+        "razer",
+        "voice",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "usb-mic"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-013-audio-waveform",
       "name": "Audio Waveform (Pink)",
-      "category": "Icons - Pink",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-013-audio-waveform.png",
       "tags": [
+        "waveform",
+        "audio",
+        "eq",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "audio-waveform"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-014-music",
-      "name": "Music (Pink)",
-      "category": "Icons - Pink",
+      "name": "Music Disc (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-014-music.png",
       "tags": [
+        "music",
+        "song",
+        "audio",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "music"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-015-music-note-alt",
-      "name": "Music Note Alt (Pink)",
-      "category": "Icons - Pink",
+      "name": "Music Note Sparkle (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-015-music-note-alt.png",
       "tags": [
+        "note",
+        "melody",
+        "sparkle",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "music-note-alt"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-016-play-pause",
-      "name": "Play Pause (Pink)",
-      "category": "Icons - Pink",
+      "name": "Play / Pause (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-016-play-pause.png",
       "tags": [
+        "play",
+        "pause",
+        "media",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "play-pause"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-017-previous",
-      "name": "Previous (Pink)",
-      "category": "Icons - Pink",
+      "name": "Previous Track (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-017-previous.png",
       "tags": [
+        "prev",
+        "back",
+        "media",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "previous"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-018-next",
-      "name": "Next (Pink)",
-      "category": "Icons - Pink",
+      "name": "Next Track (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-018-next.png",
       "tags": [
+        "next",
+        "skip",
+        "media",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "next"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-019-shuffle",
-      "name": "Shuffle (Pink)",
-      "category": "Icons - Pink",
+      "name": "Shuffle Tracks (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-019-shuffle.png",
       "tags": [
+        "shuffle",
+        "random",
+        "media",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "shuffle"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-020-repeat",
-      "name": "Repeat (Pink)",
-      "category": "Icons - Pink",
+      "name": "Repeat Track (Pink)",
+      "category": "Streaming - Pink",
       "path": "icons/pink-cream-pink-020-repeat.png",
       "tags": [
+        "repeat",
+        "loop",
+        "media",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "repeat"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-021-steam",
       "name": "Steam (Pink)",
-      "category": "Icons - Pink",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-021-steam.png",
       "tags": [
+        "steam",
+        "valve",
+        "gaming",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "steam"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-022-epic-games",
       "name": "Epic Games (Pink)",
-      "category": "Icons - Pink",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-022-epic-games.png",
       "tags": [
+        "epic",
+        "store",
+        "fortnite",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "epic-games"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-023-ea-app",
-      "name": "Ea App (Pink)",
-      "category": "Icons - Pink",
+      "name": "EA App (Pink)",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-023-ea-app.png",
       "tags": [
+        "ea",
+        "origin",
+        "games",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "ea-app"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-024-discord",
       "name": "Discord (Pink)",
-      "category": "Icons - Pink",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-024-discord.png",
       "tags": [
+        "discord",
+        "voice",
+        "chat",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "discord"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-025-computer-on",
-      "name": "Computer On (Pink)",
-      "category": "Icons - Pink",
+      "name": "Retro PC (Playing) (Pink)",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-025-computer-on.png",
       "tags": [
+        "pc",
+        "computer",
+        "retro",
+        "game",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "computer-on"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-026-computer-off",
-      "name": "Computer Off (Pink)",
-      "category": "Icons - Pink",
+      "name": "Retro PC (Off) (Pink)",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-026-computer-off.png",
       "tags": [
+        "pc",
+        "computer",
+        "retro",
+        "off",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "computer-off"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-027-controls",
-      "name": "Controls (Pink)",
-      "category": "Icons - Pink",
+      "name": "Controls Sliders (Pink)",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-027-controls.png",
       "tags": [
+        "controls",
+        "mix",
+        "sliders",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "controls"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-028-settings",
-      "name": "Settings (Pink)",
-      "category": "Icons - Pink",
+      "name": "Settings Sparkle (Pink)",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-028-settings.png",
       "tags": [
+        "settings",
+        "gear",
+        "config",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "settings"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-029-home",
-      "name": "Home (Pink)",
-      "category": "Icons - Pink",
+      "name": "Cozy Cottage Home (Pink)",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-029-home.png",
       "tags": [
+        "home",
+        "cottage",
+        "house",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "home"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-030-sleep",
-      "name": "Sleep (Pink)",
-      "category": "Icons - Pink",
+      "name": "Sleep Crescent Moon (Pink)",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-030-sleep.png",
       "tags": [
+        "sleep",
+        "moon",
+        "night",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "sleep"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-031-lock",
-      "name": "Lock (Pink)",
-      "category": "Icons - Pink",
+      "name": "Heart Padlock (Pink)",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-031-lock.png",
       "tags": [
+        "lock",
+        "heart",
+        "security",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "lock"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-032-save",
-      "name": "Save (Pink)",
-      "category": "Icons - Pink",
+      "name": "Save Floppy Disk (Pink)",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-032-save.png",
       "tags": [
+        "save",
+        "disk",
+        "floppy",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "save"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-033-search",
-      "name": "Search (Pink)",
-      "category": "Icons - Pink",
+      "name": "Search Sparkle Glass (Pink)",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-033-search.png",
       "tags": [
+        "search",
+        "find",
+        "sparkle",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "search"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-034-trash",
-      "name": "Trash (Pink)",
-      "category": "Icons - Pink",
+      "name": "Trash Bin (Pink)",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-034-trash.png",
       "tags": [
+        "trash",
+        "delete",
+        "remove",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "trash"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-035-battery",
-      "name": "Battery (Pink)",
-      "category": "Icons - Pink",
+      "name": "Battery Charging (Pink)",
+      "category": "Gaming - Pink",
       "path": "icons/pink-cream-pink-035-battery.png",
       "tags": [
+        "battery",
+        "charge",
+        "power",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "battery"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-036-tiktok",
-      "name": "Tiktok (Pink)",
-      "category": "Icons - Pink",
+      "name": "TikTok (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-036-tiktok.png",
       "tags": [
+        "tiktok",
+        "video",
+        "shorts",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "tiktok"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-037-chat",
-      "name": "Chat (Pink)",
-      "category": "Icons - Pink",
+      "name": "Chat Bubbles (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-037-chat.png",
       "tags": [
+        "chat",
+        "message",
+        "bubbles",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "chat"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-038-email",
-      "name": "Email (Pink)",
-      "category": "Icons - Pink",
+      "name": "Sparkle Email (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-038-email.png",
       "tags": [
+        "email",
+        "mail",
+        "envelope",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "email"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-039-gmail",
       "name": "Gmail (Pink)",
-      "category": "Icons - Pink",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-039-gmail.png",
       "tags": [
+        "gmail",
+        "google",
+        "mail",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "gmail"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-040-microsoft-outlook",
       "name": "Microsoft Outlook (Pink)",
-      "category": "Icons - Pink",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-040-microsoft-outlook.png",
       "tags": [
+        "outlook",
+        "microsoft",
+        "mail",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "microsoft-outlook"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-041-notes",
-      "name": "Notes (Pink)",
-      "category": "Icons - Pink",
+      "name": "Notes Clipboard (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-041-notes.png",
       "tags": [
+        "notes",
+        "memo",
+        "clipboard",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "notes"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-042-calendar",
-      "name": "Calendar (Pink)",
-      "category": "Icons - Pink",
+      "name": "Heart Calendar (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-042-calendar.png",
       "tags": [
+        "calendar",
+        "date",
+        "heart",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "calendar"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-043-power",
-      "name": "Power (Pink)",
-      "category": "Icons - Pink",
+      "name": "Power Switch (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-043-power.png",
       "tags": [
+        "power",
+        "shutdown",
+        "off",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "power"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-044-brightness",
-      "name": "Brightness (Pink)",
-      "category": "Icons - Pink",
+      "name": "Brightness Sun (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-044-brightness.png",
       "tags": [
+        "brightness",
+        "sun",
+        "display",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "brightness"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-045-windows",
-      "name": "Windows (Pink)",
-      "category": "Icons - Pink",
+      "name": "Windows 11 (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-045-windows.png",
       "tags": [
+        "windows",
+        "os",
+        "microsoft",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "windows"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-046-pink-sparkle",
-      "name": "Pink Sparkle (Pink)",
-      "category": "Icons - Pink",
+      "name": "Pink Sparkle Star (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-046-pink-sparkle.png",
       "tags": [
+        "sparkle",
+        "star",
+        "pink",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "pink-sparkle"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-047-cream-sparkle",
-      "name": "Cream Sparkle (Pink)",
-      "category": "Icons - Pink",
+      "name": "Cream Sparkle Star (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-047-cream-sparkle.png",
       "tags": [
+        "sparkle",
+        "star",
+        "cream",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "cream-sparkle"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-048-up-arrow",
-      "name": "Up Arrow (Pink)",
-      "category": "Icons - Pink",
+      "name": "Up Arrow Orbit (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-048-up-arrow.png",
       "tags": [
+        "arrow",
+        "up",
+        "orbit",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "up-arrow"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-049-down-arrow",
-      "name": "Down Arrow (Pink)",
-      "category": "Icons - Pink",
+      "name": "Down Arrow Orbit (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-049-down-arrow.png",
       "tags": [
+        "arrow",
+        "down",
+        "orbit",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "down-arrow"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-050-right-arrow",
-      "name": "Right Arrow (Pink)",
-      "category": "Icons - Pink",
+      "name": "Right Arrow Orbit (Pink)",
+      "category": "Social - Pink",
       "path": "icons/pink-cream-pink-050-right-arrow.png",
       "tags": [
+        "arrow",
+        "right",
+        "orbit",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "right-arrow"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-051-google-drive",
       "name": "Google Drive (Pink)",
-      "category": "Icons - Pink",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-051-google-drive.png",
       "tags": [
+        "drive",
+        "google",
+        "cloud",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "google-drive"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-052-google-photos",
       "name": "Google Photos (Pink)",
-      "category": "Icons - Pink",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-052-google-photos.png",
       "tags": [
+        "photos",
+        "google",
+        "gallery",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "google-photos"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-053-dropbox",
       "name": "Dropbox (Pink)",
-      "category": "Icons - Pink",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-053-dropbox.png",
       "tags": [
+        "dropbox",
+        "box",
+        "cloud",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "dropbox"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-054-cloud-transfer",
       "name": "Cloud Transfer (Pink)",
-      "category": "Icons - Pink",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-054-cloud-transfer.png",
       "tags": [
+        "cloud",
+        "transfer",
+        "sync",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "cloud-transfer"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-055-upload",
-      "name": "Upload (Pink)",
-      "category": "Icons - Pink",
+      "name": "Upload Tray Orbit (Pink)",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-055-upload.png",
       "tags": [
+        "upload",
+        "tray",
+        "orbit",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "upload"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-056-download",
-      "name": "Download (Pink)",
-      "category": "Icons - Pink",
+      "name": "Download Tray Orbit (Pink)",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-056-download.png",
       "tags": [
+        "download",
+        "tray",
+        "orbit",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "download"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-057-folder",
-      "name": "Folder (Pink)",
-      "category": "Icons - Pink",
+      "name": "Folder Closed (Pink)",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-057-folder.png",
       "tags": [
+        "folder",
+        "files",
+        "archive",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "folder"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-058-folder-open",
-      "name": "Folder Open (Pink)",
-      "category": "Icons - Pink",
+      "name": "Folder Open Sparkle (Pink)",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-058-folder-open.png",
       "tags": [
+        "folder",
+        "open",
+        "sparkle",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "folder-open"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-059-documents",
-      "name": "Documents (Pink)",
-      "category": "Icons - Pink",
+      "name": "Document Lines (Pink)",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-059-documents.png",
       "tags": [
+        "document",
+        "text",
+        "file",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "documents"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-060-documents-folded",
-      "name": "Documents Folded (Pink)",
-      "category": "Icons - Pink",
+      "name": "Document Folded (Pink)",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-060-documents-folded.png",
       "tags": [
+        "document",
+        "fold",
+        "page",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "documents-folded"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-061-calculator",
-      "name": "Calculator (Pink)",
-      "category": "Icons - Pink",
+      "name": "Cute Calculator (Pink)",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-061-calculator.png",
       "tags": [
+        "calculator",
+        "calc",
+        "math",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "calculator"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-062-microsoft-office",
-      "name": "Microsoft Office (Pink)",
-      "category": "Icons - Pink",
+      "name": "Microsoft 365 Office (Pink)",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-062-microsoft-office.png",
       "tags": [
+        "office",
+        "word",
+        "excel",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "microsoft-office"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-063-left-arrow",
-      "name": "Left Arrow (Pink)",
-      "category": "Icons - Pink",
+      "name": "Left Arrow Orbit (Pink)",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-063-left-arrow.png",
       "tags": [
+        "arrow",
+        "left",
+        "orbit",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "left-arrow"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-pink-064-blank",
-      "name": "Blank (Pink)",
-      "category": "Icons - Pink",
+      "name": "Blank Squircle (Pink)",
+      "category": "Productivity - Pink",
       "path": "icons/pink-cream-pink-064-blank.png",
       "tags": [
+        "blank",
+        "empty",
+        "tile",
+        "pink",
         "pink",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "blank"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-001-twitch",
       "name": "Twitch (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-001-twitch.png",
       "tags": [
+        "twitch",
+        "stream",
+        "live",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "twitch"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-002-youtube",
-      "name": "Youtube (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "YouTube (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-002-youtube.png",
       "tags": [
+        "youtube",
+        "video",
+        "stream",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "youtube"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-003-spotify",
       "name": "Spotify (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-003-spotify.png",
       "tags": [
+        "spotify",
+        "music",
+        "audio",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "spotify"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-004-netflix",
       "name": "Netflix (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-004-netflix.png",
       "tags": [
+        "netflix",
+        "movies",
+        "stream",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "netflix"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-005-prime-video",
       "name": "Prime Video (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-005-prime-video.png",
       "tags": [
+        "prime",
+        "amazon",
+        "video",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "prime-video"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-006-disney-plus",
-      "name": "Disney Plus (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Disney+ (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-006-disney-plus.png",
       "tags": [
+        "disney",
+        "movies",
+        "plus",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "disney-plus"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-007-kitty-headset",
       "name": "Kitty Headset (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-007-kitty-headset.png",
       "tags": [
+        "headset",
+        "cat",
+        "kitty",
+        "audio",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "kitty-headset"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-008-headphones",
       "name": "Headphones (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-008-headphones.png",
       "tags": [
+        "headphones",
+        "audio",
+        "listen",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "headphones"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-009-webcam",
-      "name": "Webcam (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Webcam Device (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-009-webcam.png",
       "tags": [
+        "webcam",
+        "camera",
+        "stream",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "webcam"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-010-camera",
-      "name": "Camera (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Retro Camera (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-010-camera.png",
       "tags": [
+        "camera",
+        "photo",
+        "record",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "camera"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-011-microphone",
-      "name": "Microphone (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Studio Mic (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-011-microphone.png",
       "tags": [
+        "mic",
+        "microphone",
+        "audio",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "microphone"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-012-usb-mic",
-      "name": "Usb Mic (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "USB Desk Mic (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-012-usb-mic.png",
       "tags": [
+        "mic",
+        "usb",
+        "razer",
+        "voice",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "usb-mic"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-013-audio-waveform",
       "name": "Audio Waveform (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-013-audio-waveform.png",
       "tags": [
+        "waveform",
+        "audio",
+        "eq",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "audio-waveform"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-014-music",
-      "name": "Music (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Music Disc (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-014-music.png",
       "tags": [
+        "music",
+        "song",
+        "audio",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "music"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-015-music-note-alt",
-      "name": "Music Note Alt (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Music Note Sparkle (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-015-music-note-alt.png",
       "tags": [
+        "note",
+        "melody",
+        "sparkle",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "music-note-alt"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-016-play-pause",
-      "name": "Play Pause (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Play / Pause (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-016-play-pause.png",
       "tags": [
+        "play",
+        "pause",
+        "media",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "play-pause"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-017-previous",
-      "name": "Previous (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Previous Track (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-017-previous.png",
       "tags": [
+        "prev",
+        "back",
+        "media",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "previous"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-018-next",
-      "name": "Next (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Next Track (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-018-next.png",
       "tags": [
+        "next",
+        "skip",
+        "media",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "next"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-019-shuffle",
-      "name": "Shuffle (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Shuffle Tracks (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-019-shuffle.png",
       "tags": [
+        "shuffle",
+        "random",
+        "media",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "shuffle"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-020-repeat",
-      "name": "Repeat (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Repeat Track (Transparent)",
+      "category": "Streaming - Transparent",
       "path": "icons/pink-cream-transparent-020-repeat.png",
       "tags": [
+        "repeat",
+        "loop",
+        "media",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "repeat"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-021-steam",
       "name": "Steam (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-021-steam.png",
       "tags": [
+        "steam",
+        "valve",
+        "gaming",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "steam"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-022-epic-games",
       "name": "Epic Games (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-022-epic-games.png",
       "tags": [
+        "epic",
+        "store",
+        "fortnite",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "epic-games"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-023-ea-app",
-      "name": "Ea App (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "EA App (Transparent)",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-023-ea-app.png",
       "tags": [
+        "ea",
+        "origin",
+        "games",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "ea-app"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-024-discord",
       "name": "Discord (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-024-discord.png",
       "tags": [
+        "discord",
+        "voice",
+        "chat",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "discord"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-025-computer-on",
-      "name": "Computer On (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Retro PC (Playing) (Transparent)",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-025-computer-on.png",
       "tags": [
+        "pc",
+        "computer",
+        "retro",
+        "game",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "computer-on"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-026-computer-off",
-      "name": "Computer Off (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Retro PC (Off) (Transparent)",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-026-computer-off.png",
       "tags": [
+        "pc",
+        "computer",
+        "retro",
+        "off",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "computer-off"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-027-controls",
-      "name": "Controls (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Controls Sliders (Transparent)",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-027-controls.png",
       "tags": [
+        "controls",
+        "mix",
+        "sliders",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "controls"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-028-settings",
-      "name": "Settings (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Settings Sparkle (Transparent)",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-028-settings.png",
       "tags": [
+        "settings",
+        "gear",
+        "config",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "settings"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-029-home",
-      "name": "Home (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Cozy Cottage Home (Transparent)",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-029-home.png",
       "tags": [
+        "home",
+        "cottage",
+        "house",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "home"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-030-sleep",
-      "name": "Sleep (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Sleep Crescent Moon (Transparent)",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-030-sleep.png",
       "tags": [
+        "sleep",
+        "moon",
+        "night",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "sleep"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-031-lock",
-      "name": "Lock (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Heart Padlock (Transparent)",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-031-lock.png",
       "tags": [
+        "lock",
+        "heart",
+        "security",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "lock"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-032-save",
-      "name": "Save (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Save Floppy Disk (Transparent)",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-032-save.png",
       "tags": [
+        "save",
+        "disk",
+        "floppy",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "save"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-033-search",
-      "name": "Search (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Search Sparkle Glass (Transparent)",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-033-search.png",
       "tags": [
+        "search",
+        "find",
+        "sparkle",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "search"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-034-trash",
-      "name": "Trash (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Trash Bin (Transparent)",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-034-trash.png",
       "tags": [
+        "trash",
+        "delete",
+        "remove",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "trash"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-035-battery",
-      "name": "Battery (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Battery Charging (Transparent)",
+      "category": "Gaming - Transparent",
       "path": "icons/pink-cream-transparent-035-battery.png",
       "tags": [
+        "battery",
+        "charge",
+        "power",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "battery"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-036-tiktok",
-      "name": "Tiktok (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "TikTok (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-036-tiktok.png",
       "tags": [
+        "tiktok",
+        "video",
+        "shorts",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "tiktok"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-037-chat",
-      "name": "Chat (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Chat Bubbles (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-037-chat.png",
       "tags": [
+        "chat",
+        "message",
+        "bubbles",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "chat"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-038-email",
-      "name": "Email (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Sparkle Email (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-038-email.png",
       "tags": [
+        "email",
+        "mail",
+        "envelope",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "email"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-039-gmail",
       "name": "Gmail (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-039-gmail.png",
       "tags": [
+        "gmail",
+        "google",
+        "mail",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "gmail"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-040-microsoft-outlook",
       "name": "Microsoft Outlook (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-040-microsoft-outlook.png",
       "tags": [
+        "outlook",
+        "microsoft",
+        "mail",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "microsoft-outlook"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-041-notes",
-      "name": "Notes (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Notes Clipboard (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-041-notes.png",
       "tags": [
+        "notes",
+        "memo",
+        "clipboard",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "notes"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-042-calendar",
-      "name": "Calendar (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Heart Calendar (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-042-calendar.png",
       "tags": [
+        "calendar",
+        "date",
+        "heart",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "calendar"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-043-power",
-      "name": "Power (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Power Switch (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-043-power.png",
       "tags": [
+        "power",
+        "shutdown",
+        "off",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "power"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-044-brightness",
-      "name": "Brightness (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Brightness Sun (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-044-brightness.png",
       "tags": [
+        "brightness",
+        "sun",
+        "display",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "brightness"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-045-windows",
-      "name": "Windows (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Windows 11 (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-045-windows.png",
       "tags": [
+        "windows",
+        "os",
+        "microsoft",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "windows"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-046-pink-sparkle",
-      "name": "Pink Sparkle (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Pink Sparkle Star (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-046-pink-sparkle.png",
       "tags": [
+        "sparkle",
+        "star",
+        "pink",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "pink-sparkle"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-047-cream-sparkle",
-      "name": "Cream Sparkle (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Cream Sparkle Star (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-047-cream-sparkle.png",
       "tags": [
+        "sparkle",
+        "star",
+        "cream",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "cream-sparkle"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-048-up-arrow",
-      "name": "Up Arrow (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Up Arrow Orbit (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-048-up-arrow.png",
       "tags": [
+        "arrow",
+        "up",
+        "orbit",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "up-arrow"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-049-down-arrow",
-      "name": "Down Arrow (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Down Arrow Orbit (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-049-down-arrow.png",
       "tags": [
+        "arrow",
+        "down",
+        "orbit",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "down-arrow"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-050-right-arrow",
-      "name": "Right Arrow (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Right Arrow Orbit (Transparent)",
+      "category": "Social - Transparent",
       "path": "icons/pink-cream-transparent-050-right-arrow.png",
       "tags": [
+        "arrow",
+        "right",
+        "orbit",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "right-arrow"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-051-google-drive",
       "name": "Google Drive (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-051-google-drive.png",
       "tags": [
+        "drive",
+        "google",
+        "cloud",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "google-drive"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-052-google-photos",
       "name": "Google Photos (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-052-google-photos.png",
       "tags": [
+        "photos",
+        "google",
+        "gallery",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "google-photos"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-053-dropbox",
       "name": "Dropbox (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-053-dropbox.png",
       "tags": [
+        "dropbox",
+        "box",
+        "cloud",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "dropbox"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-054-cloud-transfer",
       "name": "Cloud Transfer (Transparent)",
-      "category": "Icons - Transparent",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-054-cloud-transfer.png",
       "tags": [
+        "cloud",
+        "transfer",
+        "sync",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "cloud-transfer"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-055-upload",
-      "name": "Upload (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Upload Tray Orbit (Transparent)",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-055-upload.png",
       "tags": [
+        "upload",
+        "tray",
+        "orbit",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "upload"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-056-download",
-      "name": "Download (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Download Tray Orbit (Transparent)",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-056-download.png",
       "tags": [
+        "download",
+        "tray",
+        "orbit",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "download"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-057-folder",
-      "name": "Folder (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Folder Closed (Transparent)",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-057-folder.png",
       "tags": [
+        "folder",
+        "files",
+        "archive",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "folder"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-058-folder-open",
-      "name": "Folder Open (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Folder Open Sparkle (Transparent)",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-058-folder-open.png",
       "tags": [
+        "folder",
+        "open",
+        "sparkle",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "folder-open"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-059-documents",
-      "name": "Documents (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Document Lines (Transparent)",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-059-documents.png",
       "tags": [
+        "document",
+        "text",
+        "file",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "documents"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-060-documents-folded",
-      "name": "Documents Folded (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Document Folded (Transparent)",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-060-documents-folded.png",
       "tags": [
+        "document",
+        "fold",
+        "page",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "documents-folded"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-061-calculator",
-      "name": "Calculator (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Cute Calculator (Transparent)",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-061-calculator.png",
       "tags": [
+        "calculator",
+        "calc",
+        "math",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "calculator"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-062-microsoft-office",
-      "name": "Microsoft Office (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Microsoft 365 Office (Transparent)",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-062-microsoft-office.png",
       "tags": [
+        "office",
+        "word",
+        "excel",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "microsoft-office"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-063-left-arrow",
-      "name": "Left Arrow (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Left Arrow Orbit (Transparent)",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-063-left-arrow.png",
       "tags": [
+        "arrow",
+        "left",
+        "orbit",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "left-arrow"
+        "cute"
       ]
     },
     {
       "id": "pink-cream-transparent-064-blank",
-      "name": "Blank (Transparent)",
-      "category": "Icons - Transparent",
+      "name": "Blank Squircle (Transparent)",
+      "category": "Productivity - Transparent",
       "path": "icons/pink-cream-transparent-064-blank.png",
       "tags": [
+        "blank",
+        "empty",
+        "tile",
+        "transparent",
         "transparent",
         "pink",
         "cream",
         "clay",
-        "cute",
-        "aesthetic",
-        "blank"
+        "cute"
       ]
     }
   ]
