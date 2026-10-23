@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "packageType": "icon_pack",
   "name": "Pink Cream Icons",
-  "description": "3D clay and glossy candy aesthetic icon suite for Elgato Stream Deck & evoX. Features 192 curated streamer, gaming, creator, and productivity symbols in two signature finishes: Cream (Warm Ivory) and Pink (Bubblegum Candy).",
-  "version": "1.0.0",
+  "description": "3D clay and glossy candy aesthetic icon suite for Elgato Stream Deck & evoX. Features curated streamer, gaming, creator, and productivity symbols in three signature finishes: Cream (Warm Ivory), Pink (Bubblegum Candy), and Peach (Atomic Apricot).",
+  "version": "1.1.0",
   "author": {
     "id": "hfatih",
     "name": "Fatih Han",
     "url": "https://github.com/Hfatih"
   },
-  "homepage": "https://hfatih.github.io/pink-cream-icons/",
+  "homepage": "https://github.com/Hfatih/pink-cream-icons",
   "repository": "https://github.com/Hfatih/pink-cream-icons",
   "license": "MIT",
   "requiredActions": [],
@@ -17,963 +17,1283 @@
   "assets": {
     "icons": [
       {
-        "id": "pink-cream-cream-001-twitch",
-        "name": "Twitch (Cream)",
+        "id": "pink-cream-pink-cream-cream-001-twitch",
+        "name": "Cream 001 Twitch",
         "path": "assets/icons/pink-cream-cream-001-twitch.png"
       },
       {
-        "id": "pink-cream-cream-002-youtube",
-        "name": "YouTube (Cream)",
+        "id": "pink-cream-pink-cream-cream-002-youtube",
+        "name": "Cream 002 Youtube",
         "path": "assets/icons/pink-cream-cream-002-youtube.png"
       },
       {
-        "id": "pink-cream-cream-003-spotify",
-        "name": "Spotify (Cream)",
+        "id": "pink-cream-pink-cream-cream-003-spotify",
+        "name": "Cream 003 Spotify",
         "path": "assets/icons/pink-cream-cream-003-spotify.png"
       },
       {
-        "id": "pink-cream-cream-004-netflix",
-        "name": "Netflix (Cream)",
+        "id": "pink-cream-pink-cream-cream-004-netflix",
+        "name": "Cream 004 Netflix",
         "path": "assets/icons/pink-cream-cream-004-netflix.png"
       },
       {
-        "id": "pink-cream-cream-005-prime-video",
-        "name": "Prime Video (Cream)",
+        "id": "pink-cream-pink-cream-cream-005-prime-video",
+        "name": "Cream 005 Prime Video",
         "path": "assets/icons/pink-cream-cream-005-prime-video.png"
       },
       {
-        "id": "pink-cream-cream-006-disney-plus",
-        "name": "Disney+ (Cream)",
+        "id": "pink-cream-pink-cream-cream-006-disney-plus",
+        "name": "Cream 006 Disney Plus",
         "path": "assets/icons/pink-cream-cream-006-disney-plus.png"
       },
       {
-        "id": "pink-cream-cream-007-kitty-headset",
-        "name": "Kitty Headset (Cream)",
+        "id": "pink-cream-pink-cream-cream-007-kitty-headset",
+        "name": "Cream 007 Kitty Headset",
         "path": "assets/icons/pink-cream-cream-007-kitty-headset.png"
       },
       {
-        "id": "pink-cream-cream-008-headphones",
-        "name": "Headphones (Cream)",
+        "id": "pink-cream-pink-cream-cream-008-headphones",
+        "name": "Cream 008 Headphones",
         "path": "assets/icons/pink-cream-cream-008-headphones.png"
       },
       {
-        "id": "pink-cream-cream-009-webcam",
-        "name": "Webcam Device (Cream)",
+        "id": "pink-cream-pink-cream-cream-009-webcam",
+        "name": "Cream 009 Webcam",
         "path": "assets/icons/pink-cream-cream-009-webcam.png"
       },
       {
-        "id": "pink-cream-cream-010-camera",
-        "name": "Retro Camera (Cream)",
+        "id": "pink-cream-pink-cream-cream-010-camera",
+        "name": "Cream 010 Camera",
         "path": "assets/icons/pink-cream-cream-010-camera.png"
       },
       {
-        "id": "pink-cream-cream-011-microphone",
-        "name": "Studio Mic (Cream)",
+        "id": "pink-cream-pink-cream-cream-011-microphone",
+        "name": "Cream 011 Microphone",
         "path": "assets/icons/pink-cream-cream-011-microphone.png"
       },
       {
-        "id": "pink-cream-cream-012-usb-mic",
-        "name": "USB Desk Mic (Cream)",
+        "id": "pink-cream-pink-cream-cream-012-usb-mic",
+        "name": "Cream 012 Usb Mic",
         "path": "assets/icons/pink-cream-cream-012-usb-mic.png"
       },
       {
-        "id": "pink-cream-cream-013-audio-waveform",
-        "name": "Audio Waveform (Cream)",
+        "id": "pink-cream-pink-cream-cream-013-audio-waveform",
+        "name": "Cream 013 Audio Waveform",
         "path": "assets/icons/pink-cream-cream-013-audio-waveform.png"
       },
       {
-        "id": "pink-cream-cream-014-music",
-        "name": "Music Disc (Cream)",
+        "id": "pink-cream-pink-cream-cream-014-music",
+        "name": "Cream 014 Music",
         "path": "assets/icons/pink-cream-cream-014-music.png"
       },
       {
-        "id": "pink-cream-cream-015-music-note-alt",
-        "name": "Music Note Sparkle (Cream)",
+        "id": "pink-cream-pink-cream-cream-015-music-note-alt",
+        "name": "Cream 015 Music Note Alt",
         "path": "assets/icons/pink-cream-cream-015-music-note-alt.png"
       },
       {
-        "id": "pink-cream-cream-016-play-pause",
-        "name": "Play / Pause (Cream)",
+        "id": "pink-cream-pink-cream-cream-016-play-pause",
+        "name": "Cream 016 Play Pause",
         "path": "assets/icons/pink-cream-cream-016-play-pause.png"
       },
       {
-        "id": "pink-cream-cream-017-previous",
-        "name": "Previous Track (Cream)",
+        "id": "pink-cream-pink-cream-cream-017-previous",
+        "name": "Cream 017 Previous",
         "path": "assets/icons/pink-cream-cream-017-previous.png"
       },
       {
-        "id": "pink-cream-cream-018-next",
-        "name": "Next Track (Cream)",
+        "id": "pink-cream-pink-cream-cream-018-next",
+        "name": "Cream 018 Next",
         "path": "assets/icons/pink-cream-cream-018-next.png"
       },
       {
-        "id": "pink-cream-cream-019-shuffle",
-        "name": "Shuffle Tracks (Cream)",
+        "id": "pink-cream-pink-cream-cream-019-shuffle",
+        "name": "Cream 019 Shuffle",
         "path": "assets/icons/pink-cream-cream-019-shuffle.png"
       },
       {
-        "id": "pink-cream-cream-020-repeat",
-        "name": "Repeat Track (Cream)",
+        "id": "pink-cream-pink-cream-cream-020-repeat",
+        "name": "Cream 020 Repeat",
         "path": "assets/icons/pink-cream-cream-020-repeat.png"
       },
       {
-        "id": "pink-cream-cream-021-steam",
-        "name": "Steam (Cream)",
+        "id": "pink-cream-pink-cream-cream-021-steam",
+        "name": "Cream 021 Steam",
         "path": "assets/icons/pink-cream-cream-021-steam.png"
       },
       {
-        "id": "pink-cream-cream-022-epic-games",
-        "name": "Epic Games (Cream)",
+        "id": "pink-cream-pink-cream-cream-022-epic-games",
+        "name": "Cream 022 Epic Games",
         "path": "assets/icons/pink-cream-cream-022-epic-games.png"
       },
       {
-        "id": "pink-cream-cream-023-ea-app",
-        "name": "EA App (Cream)",
+        "id": "pink-cream-pink-cream-cream-023-ea-app",
+        "name": "Cream 023 Ea App",
         "path": "assets/icons/pink-cream-cream-023-ea-app.png"
       },
       {
-        "id": "pink-cream-cream-024-discord",
-        "name": "Discord (Cream)",
+        "id": "pink-cream-pink-cream-cream-024-discord",
+        "name": "Cream 024 Discord",
         "path": "assets/icons/pink-cream-cream-024-discord.png"
       },
       {
-        "id": "pink-cream-cream-025-computer-on",
-        "name": "Retro PC (Playing) (Cream)",
+        "id": "pink-cream-pink-cream-cream-025-computer-on",
+        "name": "Cream 025 Computer On",
         "path": "assets/icons/pink-cream-cream-025-computer-on.png"
       },
       {
-        "id": "pink-cream-cream-026-computer-off",
-        "name": "Retro PC (Off) (Cream)",
+        "id": "pink-cream-pink-cream-cream-026-computer-off",
+        "name": "Cream 026 Computer Off",
         "path": "assets/icons/pink-cream-cream-026-computer-off.png"
       },
       {
-        "id": "pink-cream-cream-027-controls",
-        "name": "Controls Sliders (Cream)",
+        "id": "pink-cream-pink-cream-cream-027-controls",
+        "name": "Cream 027 Controls",
         "path": "assets/icons/pink-cream-cream-027-controls.png"
       },
       {
-        "id": "pink-cream-cream-028-settings",
-        "name": "Settings Sparkle (Cream)",
+        "id": "pink-cream-pink-cream-cream-028-settings",
+        "name": "Cream 028 Settings",
         "path": "assets/icons/pink-cream-cream-028-settings.png"
       },
       {
-        "id": "pink-cream-cream-029-home",
-        "name": "Cozy Cottage Home (Cream)",
+        "id": "pink-cream-pink-cream-cream-029-home",
+        "name": "Cream 029 Home",
         "path": "assets/icons/pink-cream-cream-029-home.png"
       },
       {
-        "id": "pink-cream-cream-030-sleep",
-        "name": "Sleep Crescent Moon (Cream)",
+        "id": "pink-cream-pink-cream-cream-030-sleep",
+        "name": "Cream 030 Sleep",
         "path": "assets/icons/pink-cream-cream-030-sleep.png"
       },
       {
-        "id": "pink-cream-cream-031-lock",
-        "name": "Heart Padlock (Cream)",
+        "id": "pink-cream-pink-cream-cream-031-lock",
+        "name": "Cream 031 Lock",
         "path": "assets/icons/pink-cream-cream-031-lock.png"
       },
       {
-        "id": "pink-cream-cream-032-save",
-        "name": "Save Floppy Disk (Cream)",
+        "id": "pink-cream-pink-cream-cream-032-save",
+        "name": "Cream 032 Save",
         "path": "assets/icons/pink-cream-cream-032-save.png"
       },
       {
-        "id": "pink-cream-cream-033-search",
-        "name": "Search Sparkle Glass (Cream)",
+        "id": "pink-cream-pink-cream-cream-033-search",
+        "name": "Cream 033 Search",
         "path": "assets/icons/pink-cream-cream-033-search.png"
       },
       {
-        "id": "pink-cream-cream-034-trash",
-        "name": "Trash Bin (Cream)",
+        "id": "pink-cream-pink-cream-cream-034-trash",
+        "name": "Cream 034 Trash",
         "path": "assets/icons/pink-cream-cream-034-trash.png"
       },
       {
-        "id": "pink-cream-cream-035-battery",
-        "name": "Battery Charging (Cream)",
+        "id": "pink-cream-pink-cream-cream-035-battery",
+        "name": "Cream 035 Battery",
         "path": "assets/icons/pink-cream-cream-035-battery.png"
       },
       {
-        "id": "pink-cream-cream-036-tiktok",
-        "name": "TikTok (Cream)",
+        "id": "pink-cream-pink-cream-cream-036-tiktok",
+        "name": "Cream 036 Tiktok",
         "path": "assets/icons/pink-cream-cream-036-tiktok.png"
       },
       {
-        "id": "pink-cream-cream-037-chat",
-        "name": "Chat Bubbles (Cream)",
+        "id": "pink-cream-pink-cream-cream-037-chat",
+        "name": "Cream 037 Chat",
         "path": "assets/icons/pink-cream-cream-037-chat.png"
       },
       {
-        "id": "pink-cream-cream-038-email",
-        "name": "Sparkle Email (Cream)",
+        "id": "pink-cream-pink-cream-cream-038-email",
+        "name": "Cream 038 Email",
         "path": "assets/icons/pink-cream-cream-038-email.png"
       },
       {
-        "id": "pink-cream-cream-039-gmail",
-        "name": "Gmail (Cream)",
+        "id": "pink-cream-pink-cream-cream-039-gmail",
+        "name": "Cream 039 Gmail",
         "path": "assets/icons/pink-cream-cream-039-gmail.png"
       },
       {
-        "id": "pink-cream-cream-040-microsoft-outlook",
-        "name": "Microsoft Outlook (Cream)",
+        "id": "pink-cream-pink-cream-cream-040-microsoft-outlook",
+        "name": "Cream 040 Microsoft Outlook",
         "path": "assets/icons/pink-cream-cream-040-microsoft-outlook.png"
       },
       {
-        "id": "pink-cream-cream-041-notes",
-        "name": "Notes Clipboard (Cream)",
+        "id": "pink-cream-pink-cream-cream-041-notes",
+        "name": "Cream 041 Notes",
         "path": "assets/icons/pink-cream-cream-041-notes.png"
       },
       {
-        "id": "pink-cream-cream-042-calendar",
-        "name": "Heart Calendar (Cream)",
+        "id": "pink-cream-pink-cream-cream-042-calendar",
+        "name": "Cream 042 Calendar",
         "path": "assets/icons/pink-cream-cream-042-calendar.png"
       },
       {
-        "id": "pink-cream-cream-043-power",
-        "name": "Power Switch (Cream)",
+        "id": "pink-cream-pink-cream-cream-043-power",
+        "name": "Cream 043 Power",
         "path": "assets/icons/pink-cream-cream-043-power.png"
       },
       {
-        "id": "pink-cream-cream-044-brightness",
-        "name": "Brightness Sun (Cream)",
+        "id": "pink-cream-pink-cream-cream-044-brightness",
+        "name": "Cream 044 Brightness",
         "path": "assets/icons/pink-cream-cream-044-brightness.png"
       },
       {
-        "id": "pink-cream-cream-045-windows",
-        "name": "Windows 11 (Cream)",
+        "id": "pink-cream-pink-cream-cream-045-windows",
+        "name": "Cream 045 Windows",
         "path": "assets/icons/pink-cream-cream-045-windows.png"
       },
       {
-        "id": "pink-cream-cream-046-pink-sparkle",
-        "name": "Pink Sparkle Star (Cream)",
+        "id": "pink-cream-pink-cream-cream-046-pink-sparkle",
+        "name": "Cream 046 Pink Sparkle",
         "path": "assets/icons/pink-cream-cream-046-pink-sparkle.png"
       },
       {
-        "id": "pink-cream-cream-047-cream-sparkle",
-        "name": "Cream Sparkle Star (Cream)",
+        "id": "pink-cream-pink-cream-cream-047-cream-sparkle",
+        "name": "Cream 047 Cream Sparkle",
         "path": "assets/icons/pink-cream-cream-047-cream-sparkle.png"
       },
       {
-        "id": "pink-cream-cream-048-up-arrow",
-        "name": "Up Arrow Orbit (Cream)",
+        "id": "pink-cream-pink-cream-cream-048-up-arrow",
+        "name": "Cream 048 Up Arrow",
         "path": "assets/icons/pink-cream-cream-048-up-arrow.png"
       },
       {
-        "id": "pink-cream-cream-049-down-arrow",
-        "name": "Down Arrow Orbit (Cream)",
+        "id": "pink-cream-pink-cream-cream-049-down-arrow",
+        "name": "Cream 049 Down Arrow",
         "path": "assets/icons/pink-cream-cream-049-down-arrow.png"
       },
       {
-        "id": "pink-cream-cream-050-right-arrow",
-        "name": "Right Arrow Orbit (Cream)",
+        "id": "pink-cream-pink-cream-cream-050-right-arrow",
+        "name": "Cream 050 Right Arrow",
         "path": "assets/icons/pink-cream-cream-050-right-arrow.png"
       },
       {
-        "id": "pink-cream-cream-051-google-drive",
-        "name": "Google Drive (Cream)",
+        "id": "pink-cream-pink-cream-cream-051-google-drive",
+        "name": "Cream 051 Google Drive",
         "path": "assets/icons/pink-cream-cream-051-google-drive.png"
       },
       {
-        "id": "pink-cream-cream-052-google-photos",
-        "name": "Google Photos (Cream)",
+        "id": "pink-cream-pink-cream-cream-052-google-photos",
+        "name": "Cream 052 Google Photos",
         "path": "assets/icons/pink-cream-cream-052-google-photos.png"
       },
       {
-        "id": "pink-cream-cream-053-dropbox",
-        "name": "Dropbox (Cream)",
+        "id": "pink-cream-pink-cream-cream-053-dropbox",
+        "name": "Cream 053 Dropbox",
         "path": "assets/icons/pink-cream-cream-053-dropbox.png"
       },
       {
-        "id": "pink-cream-cream-054-cloud-transfer",
-        "name": "Cloud Transfer (Cream)",
+        "id": "pink-cream-pink-cream-cream-054-cloud-transfer",
+        "name": "Cream 054 Cloud Transfer",
         "path": "assets/icons/pink-cream-cream-054-cloud-transfer.png"
       },
       {
-        "id": "pink-cream-cream-055-upload",
-        "name": "Upload Tray Orbit (Cream)",
+        "id": "pink-cream-pink-cream-cream-055-upload",
+        "name": "Cream 055 Upload",
         "path": "assets/icons/pink-cream-cream-055-upload.png"
       },
       {
-        "id": "pink-cream-cream-056-download",
-        "name": "Download Tray Orbit (Cream)",
+        "id": "pink-cream-pink-cream-cream-056-download",
+        "name": "Cream 056 Download",
         "path": "assets/icons/pink-cream-cream-056-download.png"
       },
       {
-        "id": "pink-cream-cream-057-folder",
-        "name": "Folder Closed (Cream)",
+        "id": "pink-cream-pink-cream-cream-057-folder",
+        "name": "Cream 057 Folder",
         "path": "assets/icons/pink-cream-cream-057-folder.png"
       },
       {
-        "id": "pink-cream-cream-058-folder-open",
-        "name": "Folder Open Sparkle (Cream)",
+        "id": "pink-cream-pink-cream-cream-058-folder-open",
+        "name": "Cream 058 Folder Open",
         "path": "assets/icons/pink-cream-cream-058-folder-open.png"
       },
       {
-        "id": "pink-cream-cream-059-documents",
-        "name": "Document Lines (Cream)",
+        "id": "pink-cream-pink-cream-cream-059-documents",
+        "name": "Cream 059 Documents",
         "path": "assets/icons/pink-cream-cream-059-documents.png"
       },
       {
-        "id": "pink-cream-cream-060-documents-folded",
-        "name": "Document Folded (Cream)",
+        "id": "pink-cream-pink-cream-cream-060-documents-folded",
+        "name": "Cream 060 Documents Folded",
         "path": "assets/icons/pink-cream-cream-060-documents-folded.png"
       },
       {
-        "id": "pink-cream-cream-061-calculator",
-        "name": "Cute Calculator (Cream)",
+        "id": "pink-cream-pink-cream-cream-061-calculator",
+        "name": "Cream 061 Calculator",
         "path": "assets/icons/pink-cream-cream-061-calculator.png"
       },
       {
-        "id": "pink-cream-cream-062-microsoft-office",
-        "name": "Microsoft 365 Office (Cream)",
+        "id": "pink-cream-pink-cream-cream-062-microsoft-office",
+        "name": "Cream 062 Microsoft Office",
         "path": "assets/icons/pink-cream-cream-062-microsoft-office.png"
       },
       {
-        "id": "pink-cream-cream-063-left-arrow",
-        "name": "Left Arrow Orbit (Cream)",
+        "id": "pink-cream-pink-cream-cream-063-left-arrow",
+        "name": "Cream 063 Left Arrow",
         "path": "assets/icons/pink-cream-cream-063-left-arrow.png"
       },
       {
-        "id": "pink-cream-cream-064-blank",
-        "name": "Blank Squircle (Cream)",
+        "id": "pink-cream-pink-cream-cream-064-blank",
+        "name": "Cream 064 Blank",
         "path": "assets/icons/pink-cream-cream-064-blank.png"
       },
       {
-        "id": "pink-cream-pink-001-twitch",
-        "name": "Twitch (Pink)",
+        "id": "pink-cream-pink-cream-peach-001-twitch",
+        "name": "Peach 001 Twitch",
+        "path": "assets/icons/pink-cream-peach-001-twitch.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-002-youtube",
+        "name": "Peach 002 Youtube",
+        "path": "assets/icons/pink-cream-peach-002-youtube.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-003-spotify",
+        "name": "Peach 003 Spotify",
+        "path": "assets/icons/pink-cream-peach-003-spotify.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-004-netflix",
+        "name": "Peach 004 Netflix",
+        "path": "assets/icons/pink-cream-peach-004-netflix.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-005-prime-video",
+        "name": "Peach 005 Prime Video",
+        "path": "assets/icons/pink-cream-peach-005-prime-video.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-006-disney-plus",
+        "name": "Peach 006 Disney Plus",
+        "path": "assets/icons/pink-cream-peach-006-disney-plus.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-007-kitty-headset",
+        "name": "Peach 007 Kitty Headset",
+        "path": "assets/icons/pink-cream-peach-007-kitty-headset.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-008-headphones",
+        "name": "Peach 008 Headphones",
+        "path": "assets/icons/pink-cream-peach-008-headphones.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-009-webcam",
+        "name": "Peach 009 Webcam",
+        "path": "assets/icons/pink-cream-peach-009-webcam.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-010-camera",
+        "name": "Peach 010 Camera",
+        "path": "assets/icons/pink-cream-peach-010-camera.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-011-microphone",
+        "name": "Peach 011 Microphone",
+        "path": "assets/icons/pink-cream-peach-011-microphone.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-012-usb-mic",
+        "name": "Peach 012 Usb Mic",
+        "path": "assets/icons/pink-cream-peach-012-usb-mic.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-013-audio-waveform",
+        "name": "Peach 013 Audio Waveform",
+        "path": "assets/icons/pink-cream-peach-013-audio-waveform.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-014-music",
+        "name": "Peach 014 Music",
+        "path": "assets/icons/pink-cream-peach-014-music.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-015-music-note-alt",
+        "name": "Peach 015 Music Note Alt",
+        "path": "assets/icons/pink-cream-peach-015-music-note-alt.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-016-play-pause",
+        "name": "Peach 016 Play Pause",
+        "path": "assets/icons/pink-cream-peach-016-play-pause.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-017-previous",
+        "name": "Peach 017 Previous",
+        "path": "assets/icons/pink-cream-peach-017-previous.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-018-next",
+        "name": "Peach 018 Next",
+        "path": "assets/icons/pink-cream-peach-018-next.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-019-shuffle",
+        "name": "Peach 019 Shuffle",
+        "path": "assets/icons/pink-cream-peach-019-shuffle.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-020-repeat",
+        "name": "Peach 020 Repeat",
+        "path": "assets/icons/pink-cream-peach-020-repeat.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-021-steam",
+        "name": "Peach 021 Steam",
+        "path": "assets/icons/pink-cream-peach-021-steam.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-022-epic-games",
+        "name": "Peach 022 Epic Games",
+        "path": "assets/icons/pink-cream-peach-022-epic-games.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-023-ea-app",
+        "name": "Peach 023 Ea App",
+        "path": "assets/icons/pink-cream-peach-023-ea-app.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-024-discord",
+        "name": "Peach 024 Discord",
+        "path": "assets/icons/pink-cream-peach-024-discord.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-025-computer-on",
+        "name": "Peach 025 Computer On",
+        "path": "assets/icons/pink-cream-peach-025-computer-on.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-026-computer-off",
+        "name": "Peach 026 Computer Off",
+        "path": "assets/icons/pink-cream-peach-026-computer-off.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-027-controls",
+        "name": "Peach 027 Controls",
+        "path": "assets/icons/pink-cream-peach-027-controls.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-028-settings",
+        "name": "Peach 028 Settings",
+        "path": "assets/icons/pink-cream-peach-028-settings.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-029-home",
+        "name": "Peach 029 Home",
+        "path": "assets/icons/pink-cream-peach-029-home.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-030-sleep",
+        "name": "Peach 030 Sleep",
+        "path": "assets/icons/pink-cream-peach-030-sleep.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-031-lock",
+        "name": "Peach 031 Lock",
+        "path": "assets/icons/pink-cream-peach-031-lock.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-032-save",
+        "name": "Peach 032 Save",
+        "path": "assets/icons/pink-cream-peach-032-save.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-033-search",
+        "name": "Peach 033 Search",
+        "path": "assets/icons/pink-cream-peach-033-search.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-034-trash",
+        "name": "Peach 034 Trash",
+        "path": "assets/icons/pink-cream-peach-034-trash.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-035-battery",
+        "name": "Peach 035 Battery",
+        "path": "assets/icons/pink-cream-peach-035-battery.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-036-tiktok",
+        "name": "Peach 036 Tiktok",
+        "path": "assets/icons/pink-cream-peach-036-tiktok.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-037-chat",
+        "name": "Peach 037 Chat",
+        "path": "assets/icons/pink-cream-peach-037-chat.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-038-email",
+        "name": "Peach 038 Email",
+        "path": "assets/icons/pink-cream-peach-038-email.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-039-gmail",
+        "name": "Peach 039 Gmail",
+        "path": "assets/icons/pink-cream-peach-039-gmail.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-040-microsoft-outlook",
+        "name": "Peach 040 Microsoft Outlook",
+        "path": "assets/icons/pink-cream-peach-040-microsoft-outlook.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-041-notes",
+        "name": "Peach 041 Notes",
+        "path": "assets/icons/pink-cream-peach-041-notes.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-042-calendar",
+        "name": "Peach 042 Calendar",
+        "path": "assets/icons/pink-cream-peach-042-calendar.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-043-power",
+        "name": "Peach 043 Power",
+        "path": "assets/icons/pink-cream-peach-043-power.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-044-brightness",
+        "name": "Peach 044 Brightness",
+        "path": "assets/icons/pink-cream-peach-044-brightness.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-045-windows",
+        "name": "Peach 045 Windows",
+        "path": "assets/icons/pink-cream-peach-045-windows.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-046-pink-sparkle",
+        "name": "Peach 046 Pink Sparkle",
+        "path": "assets/icons/pink-cream-peach-046-pink-sparkle.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-047-cream-sparkle",
+        "name": "Peach 047 Cream Sparkle",
+        "path": "assets/icons/pink-cream-peach-047-cream-sparkle.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-048-up-arrow",
+        "name": "Peach 048 Up Arrow",
+        "path": "assets/icons/pink-cream-peach-048-up-arrow.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-049-down-arrow",
+        "name": "Peach 049 Down Arrow",
+        "path": "assets/icons/pink-cream-peach-049-down-arrow.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-050-right-arrow",
+        "name": "Peach 050 Right Arrow",
+        "path": "assets/icons/pink-cream-peach-050-right-arrow.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-051-google-drive",
+        "name": "Peach 051 Google Drive",
+        "path": "assets/icons/pink-cream-peach-051-google-drive.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-052-google-photos",
+        "name": "Peach 052 Google Photos",
+        "path": "assets/icons/pink-cream-peach-052-google-photos.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-053-dropbox",
+        "name": "Peach 053 Dropbox",
+        "path": "assets/icons/pink-cream-peach-053-dropbox.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-054-cloud-transfer",
+        "name": "Peach 054 Cloud Transfer",
+        "path": "assets/icons/pink-cream-peach-054-cloud-transfer.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-055-upload",
+        "name": "Peach 055 Upload",
+        "path": "assets/icons/pink-cream-peach-055-upload.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-056-download",
+        "name": "Peach 056 Download",
+        "path": "assets/icons/pink-cream-peach-056-download.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-057-folder",
+        "name": "Peach 057 Folder",
+        "path": "assets/icons/pink-cream-peach-057-folder.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-058-folder-open",
+        "name": "Peach 058 Folder Open",
+        "path": "assets/icons/pink-cream-peach-058-folder-open.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-059-documents",
+        "name": "Peach 059 Documents",
+        "path": "assets/icons/pink-cream-peach-059-documents.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-060-documents-folded",
+        "name": "Peach 060 Documents Folded",
+        "path": "assets/icons/pink-cream-peach-060-documents-folded.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-061-calculator",
+        "name": "Peach 061 Calculator",
+        "path": "assets/icons/pink-cream-peach-061-calculator.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-062-microsoft-office",
+        "name": "Peach 062 Microsoft Office",
+        "path": "assets/icons/pink-cream-peach-062-microsoft-office.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-063-left-arrow",
+        "name": "Peach 063 Left Arrow",
+        "path": "assets/icons/pink-cream-peach-063-left-arrow.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-peach-064-blank",
+        "name": "Peach 064 Blank",
+        "path": "assets/icons/pink-cream-peach-064-blank.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-pink-001-twitch",
+        "name": "Pink 001 Twitch",
         "path": "assets/icons/pink-cream-pink-001-twitch.png"
       },
       {
-        "id": "pink-cream-pink-002-youtube",
-        "name": "YouTube (Pink)",
+        "id": "pink-cream-pink-cream-pink-002-youtube",
+        "name": "Pink 002 Youtube",
         "path": "assets/icons/pink-cream-pink-002-youtube.png"
       },
       {
-        "id": "pink-cream-pink-003-spotify",
-        "name": "Spotify (Pink)",
+        "id": "pink-cream-pink-cream-pink-003-spotify",
+        "name": "Pink 003 Spotify",
         "path": "assets/icons/pink-cream-pink-003-spotify.png"
       },
       {
-        "id": "pink-cream-pink-004-netflix",
-        "name": "Netflix (Pink)",
+        "id": "pink-cream-pink-cream-pink-004-netflix",
+        "name": "Pink 004 Netflix",
         "path": "assets/icons/pink-cream-pink-004-netflix.png"
       },
       {
-        "id": "pink-cream-pink-005-prime-video",
-        "name": "Prime Video (Pink)",
+        "id": "pink-cream-pink-cream-pink-005-prime-video",
+        "name": "Pink 005 Prime Video",
         "path": "assets/icons/pink-cream-pink-005-prime-video.png"
       },
       {
-        "id": "pink-cream-pink-006-disney-plus",
-        "name": "Disney+ (Pink)",
+        "id": "pink-cream-pink-cream-pink-006-disney-plus",
+        "name": "Pink 006 Disney Plus",
         "path": "assets/icons/pink-cream-pink-006-disney-plus.png"
       },
       {
-        "id": "pink-cream-pink-007-kitty-headset",
-        "name": "Kitty Headset (Pink)",
+        "id": "pink-cream-pink-cream-pink-007-kitty-headset",
+        "name": "Pink 007 Kitty Headset",
         "path": "assets/icons/pink-cream-pink-007-kitty-headset.png"
       },
       {
-        "id": "pink-cream-pink-008-headphones",
-        "name": "Headphones (Pink)",
+        "id": "pink-cream-pink-cream-pink-008-headphones",
+        "name": "Pink 008 Headphones",
         "path": "assets/icons/pink-cream-pink-008-headphones.png"
       },
       {
-        "id": "pink-cream-pink-009-webcam",
-        "name": "Webcam Device (Pink)",
+        "id": "pink-cream-pink-cream-pink-009-webcam",
+        "name": "Pink 009 Webcam",
         "path": "assets/icons/pink-cream-pink-009-webcam.png"
       },
       {
-        "id": "pink-cream-pink-010-camera",
-        "name": "Retro Camera (Pink)",
+        "id": "pink-cream-pink-cream-pink-010-camera",
+        "name": "Pink 010 Camera",
         "path": "assets/icons/pink-cream-pink-010-camera.png"
       },
       {
-        "id": "pink-cream-pink-011-microphone",
-        "name": "Studio Mic (Pink)",
+        "id": "pink-cream-pink-cream-pink-011-microphone",
+        "name": "Pink 011 Microphone",
         "path": "assets/icons/pink-cream-pink-011-microphone.png"
       },
       {
-        "id": "pink-cream-pink-012-usb-mic",
-        "name": "USB Desk Mic (Pink)",
+        "id": "pink-cream-pink-cream-pink-012-usb-mic",
+        "name": "Pink 012 Usb Mic",
         "path": "assets/icons/pink-cream-pink-012-usb-mic.png"
       },
       {
-        "id": "pink-cream-pink-013-audio-waveform",
-        "name": "Audio Waveform (Pink)",
+        "id": "pink-cream-pink-cream-pink-013-audio-waveform",
+        "name": "Pink 013 Audio Waveform",
         "path": "assets/icons/pink-cream-pink-013-audio-waveform.png"
       },
       {
-        "id": "pink-cream-pink-014-music",
-        "name": "Music Disc (Pink)",
+        "id": "pink-cream-pink-cream-pink-014-music",
+        "name": "Pink 014 Music",
         "path": "assets/icons/pink-cream-pink-014-music.png"
       },
       {
-        "id": "pink-cream-pink-015-music-note-alt",
-        "name": "Music Note Sparkle (Pink)",
+        "id": "pink-cream-pink-cream-pink-015-music-note-alt",
+        "name": "Pink 015 Music Note Alt",
         "path": "assets/icons/pink-cream-pink-015-music-note-alt.png"
       },
       {
-        "id": "pink-cream-pink-016-play-pause",
-        "name": "Play / Pause (Pink)",
+        "id": "pink-cream-pink-cream-pink-016-play-pause",
+        "name": "Pink 016 Play Pause",
         "path": "assets/icons/pink-cream-pink-016-play-pause.png"
       },
       {
-        "id": "pink-cream-pink-017-previous",
-        "name": "Previous Track (Pink)",
+        "id": "pink-cream-pink-cream-pink-017-previous",
+        "name": "Pink 017 Previous",
         "path": "assets/icons/pink-cream-pink-017-previous.png"
       },
       {
-        "id": "pink-cream-pink-018-next",
-        "name": "Next Track (Pink)",
+        "id": "pink-cream-pink-cream-pink-018-next",
+        "name": "Pink 018 Next",
         "path": "assets/icons/pink-cream-pink-018-next.png"
       },
       {
-        "id": "pink-cream-pink-019-shuffle",
-        "name": "Shuffle Tracks (Pink)",
+        "id": "pink-cream-pink-cream-pink-019-shuffle",
+        "name": "Pink 019 Shuffle",
         "path": "assets/icons/pink-cream-pink-019-shuffle.png"
       },
       {
-        "id": "pink-cream-pink-020-repeat",
-        "name": "Repeat Track (Pink)",
+        "id": "pink-cream-pink-cream-pink-020-repeat",
+        "name": "Pink 020 Repeat",
         "path": "assets/icons/pink-cream-pink-020-repeat.png"
       },
       {
-        "id": "pink-cream-pink-021-steam",
-        "name": "Steam (Pink)",
+        "id": "pink-cream-pink-cream-pink-021-steam",
+        "name": "Pink 021 Steam",
         "path": "assets/icons/pink-cream-pink-021-steam.png"
       },
       {
-        "id": "pink-cream-pink-022-epic-games",
-        "name": "Epic Games (Pink)",
+        "id": "pink-cream-pink-cream-pink-022-epic-games",
+        "name": "Pink 022 Epic Games",
         "path": "assets/icons/pink-cream-pink-022-epic-games.png"
       },
       {
-        "id": "pink-cream-pink-023-ea-app",
-        "name": "EA App (Pink)",
+        "id": "pink-cream-pink-cream-pink-023-ea-app",
+        "name": "Pink 023 Ea App",
         "path": "assets/icons/pink-cream-pink-023-ea-app.png"
       },
       {
-        "id": "pink-cream-pink-024-discord",
-        "name": "Discord (Pink)",
+        "id": "pink-cream-pink-cream-pink-024-discord",
+        "name": "Pink 024 Discord",
         "path": "assets/icons/pink-cream-pink-024-discord.png"
       },
       {
-        "id": "pink-cream-pink-025-computer-on",
-        "name": "Retro PC (Playing) (Pink)",
+        "id": "pink-cream-pink-cream-pink-025-computer-on",
+        "name": "Pink 025 Computer On",
         "path": "assets/icons/pink-cream-pink-025-computer-on.png"
       },
       {
-        "id": "pink-cream-pink-026-computer-off",
-        "name": "Retro PC (Off) (Pink)",
+        "id": "pink-cream-pink-cream-pink-026-computer-off",
+        "name": "Pink 026 Computer Off",
         "path": "assets/icons/pink-cream-pink-026-computer-off.png"
       },
       {
-        "id": "pink-cream-pink-027-controls",
-        "name": "Controls Sliders (Pink)",
+        "id": "pink-cream-pink-cream-pink-027-controls",
+        "name": "Pink 027 Controls",
         "path": "assets/icons/pink-cream-pink-027-controls.png"
       },
       {
-        "id": "pink-cream-pink-028-settings",
-        "name": "Settings Sparkle (Pink)",
+        "id": "pink-cream-pink-cream-pink-028-settings",
+        "name": "Pink 028 Settings",
         "path": "assets/icons/pink-cream-pink-028-settings.png"
       },
       {
-        "id": "pink-cream-pink-029-home",
-        "name": "Cozy Cottage Home (Pink)",
+        "id": "pink-cream-pink-cream-pink-029-home",
+        "name": "Pink 029 Home",
         "path": "assets/icons/pink-cream-pink-029-home.png"
       },
       {
-        "id": "pink-cream-pink-030-sleep",
-        "name": "Sleep Crescent Moon (Pink)",
+        "id": "pink-cream-pink-cream-pink-030-sleep",
+        "name": "Pink 030 Sleep",
         "path": "assets/icons/pink-cream-pink-030-sleep.png"
       },
       {
-        "id": "pink-cream-pink-031-lock",
-        "name": "Heart Padlock (Pink)",
+        "id": "pink-cream-pink-cream-pink-031-lock",
+        "name": "Pink 031 Lock",
         "path": "assets/icons/pink-cream-pink-031-lock.png"
       },
       {
-        "id": "pink-cream-pink-032-save",
-        "name": "Save Floppy Disk (Pink)",
+        "id": "pink-cream-pink-cream-pink-032-save",
+        "name": "Pink 032 Save",
         "path": "assets/icons/pink-cream-pink-032-save.png"
       },
       {
-        "id": "pink-cream-pink-033-search",
-        "name": "Search Sparkle Glass (Pink)",
+        "id": "pink-cream-pink-cream-pink-033-search",
+        "name": "Pink 033 Search",
         "path": "assets/icons/pink-cream-pink-033-search.png"
       },
       {
-        "id": "pink-cream-pink-034-trash",
-        "name": "Trash Bin (Pink)",
+        "id": "pink-cream-pink-cream-pink-034-trash",
+        "name": "Pink 034 Trash",
         "path": "assets/icons/pink-cream-pink-034-trash.png"
       },
       {
-        "id": "pink-cream-pink-035-battery",
-        "name": "Battery Charging (Pink)",
+        "id": "pink-cream-pink-cream-pink-035-battery",
+        "name": "Pink 035 Battery",
         "path": "assets/icons/pink-cream-pink-035-battery.png"
       },
       {
-        "id": "pink-cream-pink-036-tiktok",
-        "name": "TikTok (Pink)",
+        "id": "pink-cream-pink-cream-pink-036-tiktok",
+        "name": "Pink 036 Tiktok",
         "path": "assets/icons/pink-cream-pink-036-tiktok.png"
       },
       {
-        "id": "pink-cream-pink-037-chat",
-        "name": "Chat Bubbles (Pink)",
+        "id": "pink-cream-pink-cream-pink-037-chat",
+        "name": "Pink 037 Chat",
         "path": "assets/icons/pink-cream-pink-037-chat.png"
       },
       {
-        "id": "pink-cream-pink-038-email",
-        "name": "Sparkle Email (Pink)",
+        "id": "pink-cream-pink-cream-pink-038-email",
+        "name": "Pink 038 Email",
         "path": "assets/icons/pink-cream-pink-038-email.png"
       },
       {
-        "id": "pink-cream-pink-039-gmail",
-        "name": "Gmail (Pink)",
+        "id": "pink-cream-pink-cream-pink-039-gmail",
+        "name": "Pink 039 Gmail",
         "path": "assets/icons/pink-cream-pink-039-gmail.png"
       },
       {
-        "id": "pink-cream-pink-040-microsoft-outlook",
-        "name": "Microsoft Outlook (Pink)",
+        "id": "pink-cream-pink-cream-pink-040-microsoft-outlook",
+        "name": "Pink 040 Microsoft Outlook",
         "path": "assets/icons/pink-cream-pink-040-microsoft-outlook.png"
       },
       {
-        "id": "pink-cream-pink-041-notes",
-        "name": "Notes Clipboard (Pink)",
+        "id": "pink-cream-pink-cream-pink-041-notes",
+        "name": "Pink 041 Notes",
         "path": "assets/icons/pink-cream-pink-041-notes.png"
       },
       {
-        "id": "pink-cream-pink-042-calendar",
-        "name": "Heart Calendar (Pink)",
+        "id": "pink-cream-pink-cream-pink-042-calendar",
+        "name": "Pink 042 Calendar",
         "path": "assets/icons/pink-cream-pink-042-calendar.png"
       },
       {
-        "id": "pink-cream-pink-043-power",
-        "name": "Power Switch (Pink)",
+        "id": "pink-cream-pink-cream-pink-043-power",
+        "name": "Pink 043 Power",
         "path": "assets/icons/pink-cream-pink-043-power.png"
       },
       {
-        "id": "pink-cream-pink-044-brightness",
-        "name": "Brightness Sun (Pink)",
+        "id": "pink-cream-pink-cream-pink-044-brightness",
+        "name": "Pink 044 Brightness",
         "path": "assets/icons/pink-cream-pink-044-brightness.png"
       },
       {
-        "id": "pink-cream-pink-045-windows",
-        "name": "Windows 11 (Pink)",
+        "id": "pink-cream-pink-cream-pink-045-windows",
+        "name": "Pink 045 Windows",
         "path": "assets/icons/pink-cream-pink-045-windows.png"
       },
       {
-        "id": "pink-cream-pink-046-pink-sparkle",
-        "name": "Pink Sparkle Star (Pink)",
+        "id": "pink-cream-pink-cream-pink-046-pink-sparkle",
+        "name": "Pink 046 Pink Sparkle",
         "path": "assets/icons/pink-cream-pink-046-pink-sparkle.png"
       },
       {
-        "id": "pink-cream-pink-047-cream-sparkle",
-        "name": "Cream Sparkle Star (Pink)",
+        "id": "pink-cream-pink-cream-pink-047-cream-sparkle",
+        "name": "Pink 047 Cream Sparkle",
         "path": "assets/icons/pink-cream-pink-047-cream-sparkle.png"
       },
       {
-        "id": "pink-cream-pink-048-up-arrow",
-        "name": "Up Arrow Orbit (Pink)",
+        "id": "pink-cream-pink-cream-pink-048-up-arrow",
+        "name": "Pink 048 Up Arrow",
         "path": "assets/icons/pink-cream-pink-048-up-arrow.png"
       },
       {
-        "id": "pink-cream-pink-049-down-arrow",
-        "name": "Down Arrow Orbit (Pink)",
+        "id": "pink-cream-pink-cream-pink-049-down-arrow",
+        "name": "Pink 049 Down Arrow",
         "path": "assets/icons/pink-cream-pink-049-down-arrow.png"
       },
       {
-        "id": "pink-cream-pink-050-right-arrow",
-        "name": "Right Arrow Orbit (Pink)",
+        "id": "pink-cream-pink-cream-pink-050-right-arrow",
+        "name": "Pink 050 Right Arrow",
         "path": "assets/icons/pink-cream-pink-050-right-arrow.png"
       },
       {
-        "id": "pink-cream-pink-051-google-drive",
-        "name": "Google Drive (Pink)",
+        "id": "pink-cream-pink-cream-pink-051-google-drive",
+        "name": "Pink 051 Google Drive",
         "path": "assets/icons/pink-cream-pink-051-google-drive.png"
       },
       {
-        "id": "pink-cream-pink-052-google-photos",
-        "name": "Google Photos (Pink)",
+        "id": "pink-cream-pink-cream-pink-052-google-photos",
+        "name": "Pink 052 Google Photos",
         "path": "assets/icons/pink-cream-pink-052-google-photos.png"
       },
       {
-        "id": "pink-cream-pink-053-dropbox",
-        "name": "Dropbox (Pink)",
+        "id": "pink-cream-pink-cream-pink-053-dropbox",
+        "name": "Pink 053 Dropbox",
         "path": "assets/icons/pink-cream-pink-053-dropbox.png"
       },
       {
-        "id": "pink-cream-pink-054-cloud-transfer",
-        "name": "Cloud Transfer (Pink)",
+        "id": "pink-cream-pink-cream-pink-054-cloud-transfer",
+        "name": "Pink 054 Cloud Transfer",
         "path": "assets/icons/pink-cream-pink-054-cloud-transfer.png"
       },
       {
-        "id": "pink-cream-pink-055-upload",
-        "name": "Upload Tray Orbit (Pink)",
+        "id": "pink-cream-pink-cream-pink-055-upload",
+        "name": "Pink 055 Upload",
         "path": "assets/icons/pink-cream-pink-055-upload.png"
       },
       {
-        "id": "pink-cream-pink-056-download",
-        "name": "Download Tray Orbit (Pink)",
+        "id": "pink-cream-pink-cream-pink-056-download",
+        "name": "Pink 056 Download",
         "path": "assets/icons/pink-cream-pink-056-download.png"
       },
       {
-        "id": "pink-cream-pink-057-folder",
-        "name": "Folder Closed (Pink)",
+        "id": "pink-cream-pink-cream-pink-057-folder",
+        "name": "Pink 057 Folder",
         "path": "assets/icons/pink-cream-pink-057-folder.png"
       },
       {
-        "id": "pink-cream-pink-058-folder-open",
-        "name": "Folder Open Sparkle (Pink)",
+        "id": "pink-cream-pink-cream-pink-058-folder-open",
+        "name": "Pink 058 Folder Open",
         "path": "assets/icons/pink-cream-pink-058-folder-open.png"
       },
       {
-        "id": "pink-cream-pink-059-documents",
-        "name": "Document Lines (Pink)",
+        "id": "pink-cream-pink-cream-pink-059-documents",
+        "name": "Pink 059 Documents",
         "path": "assets/icons/pink-cream-pink-059-documents.png"
       },
       {
-        "id": "pink-cream-pink-060-documents-folded",
-        "name": "Document Folded (Pink)",
+        "id": "pink-cream-pink-cream-pink-060-documents-folded",
+        "name": "Pink 060 Documents Folded",
         "path": "assets/icons/pink-cream-pink-060-documents-folded.png"
       },
       {
-        "id": "pink-cream-pink-061-calculator",
-        "name": "Cute Calculator (Pink)",
+        "id": "pink-cream-pink-cream-pink-061-calculator",
+        "name": "Pink 061 Calculator",
         "path": "assets/icons/pink-cream-pink-061-calculator.png"
       },
       {
-        "id": "pink-cream-pink-062-microsoft-office",
-        "name": "Microsoft 365 Office (Pink)",
+        "id": "pink-cream-pink-cream-pink-062-microsoft-office",
+        "name": "Pink 062 Microsoft Office",
         "path": "assets/icons/pink-cream-pink-062-microsoft-office.png"
       },
       {
-        "id": "pink-cream-pink-063-left-arrow",
-        "name": "Left Arrow Orbit (Pink)",
+        "id": "pink-cream-pink-cream-pink-063-left-arrow",
+        "name": "Pink 063 Left Arrow",
         "path": "assets/icons/pink-cream-pink-063-left-arrow.png"
       },
       {
-        "id": "pink-cream-pink-064-blank",
-        "name": "Blank Squircle (Pink)",
+        "id": "pink-cream-pink-cream-pink-064-blank",
+        "name": "Pink 064 Blank",
         "path": "assets/icons/pink-cream-pink-064-blank.png"
       },
       {
-        "id": "pink-cream-transparent-001-twitch",
-        "name": "Twitch (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-001-twitch",
+        "name": "Transparent 001 Twitch",
         "path": "assets/icons/pink-cream-transparent-001-twitch.png"
       },
       {
-        "id": "pink-cream-transparent-002-youtube",
-        "name": "YouTube (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-002-youtube",
+        "name": "Transparent 002 Youtube",
         "path": "assets/icons/pink-cream-transparent-002-youtube.png"
       },
       {
-        "id": "pink-cream-transparent-003-spotify",
-        "name": "Spotify (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-003-spotify",
+        "name": "Transparent 003 Spotify",
         "path": "assets/icons/pink-cream-transparent-003-spotify.png"
       },
       {
-        "id": "pink-cream-transparent-004-netflix",
-        "name": "Netflix (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-004-netflix",
+        "name": "Transparent 004 Netflix",
         "path": "assets/icons/pink-cream-transparent-004-netflix.png"
       },
       {
-        "id": "pink-cream-transparent-005-prime-video",
-        "name": "Prime Video (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-005-prime-video",
+        "name": "Transparent 005 Prime Video",
         "path": "assets/icons/pink-cream-transparent-005-prime-video.png"
       },
       {
-        "id": "pink-cream-transparent-006-disney-plus",
-        "name": "Disney+ (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-006-disney-plus",
+        "name": "Transparent 006 Disney Plus",
         "path": "assets/icons/pink-cream-transparent-006-disney-plus.png"
       },
       {
-        "id": "pink-cream-transparent-007-kitty-headset",
-        "name": "Kitty Headset (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-007-kitty-headset",
+        "name": "Transparent 007 Kitty Headset",
         "path": "assets/icons/pink-cream-transparent-007-kitty-headset.png"
       },
       {
-        "id": "pink-cream-transparent-008-headphones",
-        "name": "Headphones (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-008-headphones",
+        "name": "Transparent 008 Headphones",
         "path": "assets/icons/pink-cream-transparent-008-headphones.png"
       },
       {
-        "id": "pink-cream-transparent-009-webcam",
-        "name": "Webcam Device (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-009-webcam",
+        "name": "Transparent 009 Webcam",
         "path": "assets/icons/pink-cream-transparent-009-webcam.png"
       },
       {
-        "id": "pink-cream-transparent-010-camera",
-        "name": "Retro Camera (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-010-camera",
+        "name": "Transparent 010 Camera",
         "path": "assets/icons/pink-cream-transparent-010-camera.png"
       },
       {
-        "id": "pink-cream-transparent-011-microphone",
-        "name": "Studio Mic (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-011-microphone",
+        "name": "Transparent 011 Microphone",
         "path": "assets/icons/pink-cream-transparent-011-microphone.png"
       },
       {
-        "id": "pink-cream-transparent-012-usb-mic",
-        "name": "USB Desk Mic (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-012-usb-mic",
+        "name": "Transparent 012 Usb Mic",
         "path": "assets/icons/pink-cream-transparent-012-usb-mic.png"
       },
       {
-        "id": "pink-cream-transparent-013-audio-waveform",
-        "name": "Audio Waveform (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-013-audio-waveform",
+        "name": "Transparent 013 Audio Waveform",
         "path": "assets/icons/pink-cream-transparent-013-audio-waveform.png"
       },
       {
-        "id": "pink-cream-transparent-014-music",
-        "name": "Music Disc (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-014-music",
+        "name": "Transparent 014 Music",
         "path": "assets/icons/pink-cream-transparent-014-music.png"
       },
       {
-        "id": "pink-cream-transparent-015-music-note-alt",
-        "name": "Music Note Sparkle (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-015-music-note-alt",
+        "name": "Transparent 015 Music Note Alt",
         "path": "assets/icons/pink-cream-transparent-015-music-note-alt.png"
       },
       {
-        "id": "pink-cream-transparent-016-play-pause",
-        "name": "Play / Pause (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-016-play-pause",
+        "name": "Transparent 016 Play Pause",
         "path": "assets/icons/pink-cream-transparent-016-play-pause.png"
       },
       {
-        "id": "pink-cream-transparent-017-previous",
-        "name": "Previous Track (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-017-previous",
+        "name": "Transparent 017 Previous",
         "path": "assets/icons/pink-cream-transparent-017-previous.png"
       },
       {
-        "id": "pink-cream-transparent-018-next",
-        "name": "Next Track (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-018-next",
+        "name": "Transparent 018 Next",
         "path": "assets/icons/pink-cream-transparent-018-next.png"
       },
       {
-        "id": "pink-cream-transparent-019-shuffle",
-        "name": "Shuffle Tracks (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-019-shuffle",
+        "name": "Transparent 019 Shuffle",
         "path": "assets/icons/pink-cream-transparent-019-shuffle.png"
       },
       {
-        "id": "pink-cream-transparent-020-repeat",
-        "name": "Repeat Track (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-020-repeat",
+        "name": "Transparent 020 Repeat",
         "path": "assets/icons/pink-cream-transparent-020-repeat.png"
       },
       {
-        "id": "pink-cream-transparent-021-steam",
-        "name": "Steam (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-021-steam",
+        "name": "Transparent 021 Steam",
         "path": "assets/icons/pink-cream-transparent-021-steam.png"
       },
       {
-        "id": "pink-cream-transparent-022-epic-games",
-        "name": "Epic Games (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-022-epic-games",
+        "name": "Transparent 022 Epic Games",
         "path": "assets/icons/pink-cream-transparent-022-epic-games.png"
       },
       {
-        "id": "pink-cream-transparent-023-ea-app",
-        "name": "EA App (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-023-ea-app",
+        "name": "Transparent 023 Ea App",
         "path": "assets/icons/pink-cream-transparent-023-ea-app.png"
       },
       {
-        "id": "pink-cream-transparent-024-discord",
-        "name": "Discord (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-024-discord",
+        "name": "Transparent 024 Discord",
         "path": "assets/icons/pink-cream-transparent-024-discord.png"
       },
       {
-        "id": "pink-cream-transparent-025-computer-on",
-        "name": "Retro PC (Playing) (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-025-computer-on",
+        "name": "Transparent 025 Computer On",
         "path": "assets/icons/pink-cream-transparent-025-computer-on.png"
       },
       {
-        "id": "pink-cream-transparent-026-computer-off",
-        "name": "Retro PC (Off) (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-026-computer-off",
+        "name": "Transparent 026 Computer Off",
         "path": "assets/icons/pink-cream-transparent-026-computer-off.png"
       },
       {
-        "id": "pink-cream-transparent-027-controls",
-        "name": "Controls Sliders (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-027-controls",
+        "name": "Transparent 027 Controls",
         "path": "assets/icons/pink-cream-transparent-027-controls.png"
       },
       {
-        "id": "pink-cream-transparent-028-settings",
-        "name": "Settings Sparkle (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-028-settings",
+        "name": "Transparent 028 Settings",
         "path": "assets/icons/pink-cream-transparent-028-settings.png"
       },
       {
-        "id": "pink-cream-transparent-029-home",
-        "name": "Cozy Cottage Home (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-029-home",
+        "name": "Transparent 029 Home",
         "path": "assets/icons/pink-cream-transparent-029-home.png"
       },
       {
-        "id": "pink-cream-transparent-030-sleep",
-        "name": "Sleep Crescent Moon (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-030-sleep",
+        "name": "Transparent 030 Sleep",
         "path": "assets/icons/pink-cream-transparent-030-sleep.png"
       },
       {
-        "id": "pink-cream-transparent-031-lock",
-        "name": "Heart Padlock (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-031-lock",
+        "name": "Transparent 031 Lock",
         "path": "assets/icons/pink-cream-transparent-031-lock.png"
       },
       {
-        "id": "pink-cream-transparent-032-save",
-        "name": "Save Floppy Disk (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-032-save",
+        "name": "Transparent 032 Save",
         "path": "assets/icons/pink-cream-transparent-032-save.png"
       },
       {
-        "id": "pink-cream-transparent-033-search",
-        "name": "Search Sparkle Glass (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-033-search",
+        "name": "Transparent 033 Search",
         "path": "assets/icons/pink-cream-transparent-033-search.png"
       },
       {
-        "id": "pink-cream-transparent-034-trash",
-        "name": "Trash Bin (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-034-trash",
+        "name": "Transparent 034 Trash",
         "path": "assets/icons/pink-cream-transparent-034-trash.png"
       },
       {
-        "id": "pink-cream-transparent-035-battery",
-        "name": "Battery Charging (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-035-battery",
+        "name": "Transparent 035 Battery",
         "path": "assets/icons/pink-cream-transparent-035-battery.png"
       },
       {
-        "id": "pink-cream-transparent-036-tiktok",
-        "name": "TikTok (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-036-tiktok",
+        "name": "Transparent 036 Tiktok",
         "path": "assets/icons/pink-cream-transparent-036-tiktok.png"
       },
       {
-        "id": "pink-cream-transparent-037-chat",
-        "name": "Chat Bubbles (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-037-chat",
+        "name": "Transparent 037 Chat",
         "path": "assets/icons/pink-cream-transparent-037-chat.png"
       },
       {
-        "id": "pink-cream-transparent-038-email",
-        "name": "Sparkle Email (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-038-email",
+        "name": "Transparent 038 Email",
         "path": "assets/icons/pink-cream-transparent-038-email.png"
       },
       {
-        "id": "pink-cream-transparent-039-gmail",
-        "name": "Gmail (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-039-gmail",
+        "name": "Transparent 039 Gmail",
         "path": "assets/icons/pink-cream-transparent-039-gmail.png"
       },
       {
-        "id": "pink-cream-transparent-040-microsoft-outlook",
-        "name": "Microsoft Outlook (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-040-microsoft-outlook",
+        "name": "Transparent 040 Microsoft Outlook",
         "path": "assets/icons/pink-cream-transparent-040-microsoft-outlook.png"
       },
       {
-        "id": "pink-cream-transparent-041-notes",
-        "name": "Notes Clipboard (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-041-notes",
+        "name": "Transparent 041 Notes",
         "path": "assets/icons/pink-cream-transparent-041-notes.png"
       },
       {
-        "id": "pink-cream-transparent-042-calendar",
-        "name": "Heart Calendar (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-042-calendar",
+        "name": "Transparent 042 Calendar",
         "path": "assets/icons/pink-cream-transparent-042-calendar.png"
       },
       {
-        "id": "pink-cream-transparent-043-power",
-        "name": "Power Switch (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-043-power",
+        "name": "Transparent 043 Power",
         "path": "assets/icons/pink-cream-transparent-043-power.png"
       },
       {
-        "id": "pink-cream-transparent-044-brightness",
-        "name": "Brightness Sun (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-044-brightness",
+        "name": "Transparent 044 Brightness",
         "path": "assets/icons/pink-cream-transparent-044-brightness.png"
       },
       {
-        "id": "pink-cream-transparent-045-windows",
-        "name": "Windows 11 (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-045-windows",
+        "name": "Transparent 045 Windows",
         "path": "assets/icons/pink-cream-transparent-045-windows.png"
       },
       {
-        "id": "pink-cream-transparent-046-pink-sparkle",
-        "name": "Pink Sparkle Star (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-046-pink-sparkle",
+        "name": "Transparent 046 Pink Sparkle",
         "path": "assets/icons/pink-cream-transparent-046-pink-sparkle.png"
       },
       {
-        "id": "pink-cream-transparent-047-cream-sparkle",
-        "name": "Cream Sparkle Star (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-047-cream-sparkle",
+        "name": "Transparent 047 Cream Sparkle",
         "path": "assets/icons/pink-cream-transparent-047-cream-sparkle.png"
       },
       {
-        "id": "pink-cream-transparent-048-up-arrow",
-        "name": "Up Arrow Orbit (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-048-up-arrow",
+        "name": "Transparent 048 Up Arrow",
         "path": "assets/icons/pink-cream-transparent-048-up-arrow.png"
       },
       {
-        "id": "pink-cream-transparent-049-down-arrow",
-        "name": "Down Arrow Orbit (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-049-down-arrow",
+        "name": "Transparent 049 Down Arrow",
         "path": "assets/icons/pink-cream-transparent-049-down-arrow.png"
       },
       {
-        "id": "pink-cream-transparent-050-right-arrow",
-        "name": "Right Arrow Orbit (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-050-right-arrow",
+        "name": "Transparent 050 Right Arrow",
         "path": "assets/icons/pink-cream-transparent-050-right-arrow.png"
       },
       {
-        "id": "pink-cream-transparent-051-google-drive",
-        "name": "Google Drive (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-051-google-drive",
+        "name": "Transparent 051 Google Drive",
         "path": "assets/icons/pink-cream-transparent-051-google-drive.png"
       },
       {
-        "id": "pink-cream-transparent-052-google-photos",
-        "name": "Google Photos (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-052-google-photos",
+        "name": "Transparent 052 Google Photos",
         "path": "assets/icons/pink-cream-transparent-052-google-photos.png"
       },
       {
-        "id": "pink-cream-transparent-053-dropbox",
-        "name": "Dropbox (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-053-dropbox",
+        "name": "Transparent 053 Dropbox",
         "path": "assets/icons/pink-cream-transparent-053-dropbox.png"
       },
       {
-        "id": "pink-cream-transparent-054-cloud-transfer",
-        "name": "Cloud Transfer (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-054-cloud-transfer",
+        "name": "Transparent 054 Cloud Transfer",
         "path": "assets/icons/pink-cream-transparent-054-cloud-transfer.png"
       },
       {
-        "id": "pink-cream-transparent-055-upload",
-        "name": "Upload Tray Orbit (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-055-upload",
+        "name": "Transparent 055 Upload",
         "path": "assets/icons/pink-cream-transparent-055-upload.png"
       },
       {
-        "id": "pink-cream-transparent-056-download",
-        "name": "Download Tray Orbit (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-056-download",
+        "name": "Transparent 056 Download",
         "path": "assets/icons/pink-cream-transparent-056-download.png"
       },
       {
-        "id": "pink-cream-transparent-057-folder",
-        "name": "Folder Closed (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-057-folder",
+        "name": "Transparent 057 Folder",
         "path": "assets/icons/pink-cream-transparent-057-folder.png"
       },
       {
-        "id": "pink-cream-transparent-058-folder-open",
-        "name": "Folder Open Sparkle (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-058-folder-open",
+        "name": "Transparent 058 Folder Open",
         "path": "assets/icons/pink-cream-transparent-058-folder-open.png"
       },
       {
-        "id": "pink-cream-transparent-059-documents",
-        "name": "Document Lines (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-059-documents",
+        "name": "Transparent 059 Documents",
         "path": "assets/icons/pink-cream-transparent-059-documents.png"
       },
       {
-        "id": "pink-cream-transparent-060-documents-folded",
-        "name": "Document Folded (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-060-documents-folded",
+        "name": "Transparent 060 Documents Folded",
         "path": "assets/icons/pink-cream-transparent-060-documents-folded.png"
       },
       {
-        "id": "pink-cream-transparent-061-calculator",
-        "name": "Cute Calculator (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-061-calculator",
+        "name": "Transparent 061 Calculator",
         "path": "assets/icons/pink-cream-transparent-061-calculator.png"
       },
       {
-        "id": "pink-cream-transparent-062-microsoft-office",
-        "name": "Microsoft 365 Office (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-062-microsoft-office",
+        "name": "Transparent 062 Microsoft Office",
         "path": "assets/icons/pink-cream-transparent-062-microsoft-office.png"
       },
       {
-        "id": "pink-cream-transparent-063-left-arrow",
-        "name": "Left Arrow Orbit (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-063-left-arrow",
+        "name": "Transparent 063 Left Arrow",
         "path": "assets/icons/pink-cream-transparent-063-left-arrow.png"
       },
       {
-        "id": "pink-cream-transparent-064-blank",
-        "name": "Blank Squircle (Transparent)",
+        "id": "pink-cream-pink-cream-transparent-064-blank",
+        "name": "Transparent 064 Blank",
         "path": "assets/icons/pink-cream-transparent-064-blank.png"
       }
     ],
@@ -981,5 +1301,5 @@
   },
   "coverImage": "cover.png",
   "createdWith": "evox-deck-v2",
-  "createdAt": "2026-10-24T00:00:00.000Z"
+  "createdAt": "2026-10-23T23:50:48.827174Z"
 }
