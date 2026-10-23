@@ -264,7 +264,7 @@
       currentInitial.forEach((iconFn, idx) => {
         const btn = document.createElement('div');
         btn.className = 'deck-key';
-        btn.innerHTML = `<img src="icons/${iconFn}" alt="slot-${idx}">`;
+        btn.innerHTML = `<img src="icons/${iconFn}" onerror="if(!this.dataset.fb){this.dataset.fb=1;this.src='pink-cream-icons/icons/'+this.src.split('/').pop();}" alt="slot-${idx}">`;
         btn.title = `Slot ${idx+1}: ${iconFn} (Değiştirmek için alttan bir ikona tıkla)`;
         btn.onclick = () => {
           showToast(`Slot ${idx+1} tıklandı!`);
@@ -288,11 +288,10 @@
         const card = document.createElement('div');
         card.className = 'gallery-item';
         card.innerHTML = `
-          <img src="${item.path}" alt="${item.name}">
+          <img src="${item.path}" onerror="if(!this.dataset.fb){this.dataset.fb=1;this.src='pink-cream-icons/'+this.getAttribute('src');}" alt="${item.name}">
           <span>${item.name}</span>
         `;
         card.onclick = () => {
-          // Replace first slot or random slot
           currentInitial[Math.floor(Math.random() * currentInitial.length)] = item.path.replace('icons/', '');
           renderDeck();
           showToast(`${item.name} simülatöre eklendi!`);
