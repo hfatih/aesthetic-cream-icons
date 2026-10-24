@@ -6,8 +6,8 @@
   <p>
     <strong>Dil / Language:</strong> <a href="README.md"><strong>English</strong></a> | <a href="README.tr.md"><strong>Türkçe</strong></a>
     &nbsp;•&nbsp;
-    <a href="https://github.com/Hfatih/pink-cream-icons/releases/latest">.evoxpack İndir</a> ·
-    <a href="https://hfatih.github.io/pink-cream-icons/">Canlı İnteraktif Galeri</a> ·
+    <a href="https://github.com/Hfatih/aesthetic-cream-icons/releases/latest">.evoxpack İndir</a> ·
+    <a href="https://hfatih.github.io/aesthetic-cream-icons/">Canlı İnteraktif Galeri</a> ·
     <a href="#nasil-kurulur">Nasıl Kurulur?</a>
   </p>
 
@@ -21,11 +21,11 @@
     <img src="https://img.shields.io/badge/Lisans-MIT-blue?style=flat-square" alt="Lisans MIT">
   </p>
   <p align="center">
-    <img src="https://hits.sh/github.com/hfatih/pink-cream-icons.svg?style=flat-square&label=g%C3%B6r%C3%BCnt%C3%BClenme&color=c07ce8" alt="Görüntülenme">
-    <a href="https://github.com/hfatih/pink-cream-icons/releases"><img src="https://img.shields.io/github/downloads/hfatih/pink-cream-icons/total?style=flat-square&label=indirme&color=a855f7" alt="İndirmeler"></a>
-    <a href="https://github.com/hfatih/pink-cream-icons/releases/latest"><img src="https://img.shields.io/github/v/release/hfatih/pink-cream-icons?style=flat-square&label=s%C3%BCr%C3%BCm&color=ec4899" alt="Sürüm"></a>
-    <a href="https://github.com/hfatih/pink-cream-icons/stargazers"><img src="https://img.shields.io/github/stars/hfatih/pink-cream-icons?style=flat-square&label=y%C4%B1ld%C4%B1z&color=f472b6" alt="Yıldızlar"></a>
-    <a href="https://github.com/hfatih/pink-cream-icons/commits"><img src="https://img.shields.io/github/last-commit/hfatih/pink-cream-icons?style=flat-square&label=son%20commit&color=c07ce8" alt="Son Commit"></a>
+    <img src="https://hits.sh/github.com/hfatih/aesthetic-cream-icons.svg?style=flat-square&label=g%C3%B6r%C3%BCnt%C3%BClenme&color=c07ce8" alt="Görüntülenme">
+    <a href="https://github.com/hfatih/aesthetic-cream-icons/releases"><img src="https://img.shields.io/github/downloads/hfatih/aesthetic-cream-icons/total?style=flat-square&label=indirme&color=a855f7" alt="İndirmeler"></a>
+    <a href="https://github.com/hfatih/aesthetic-cream-icons/releases/latest"><img src="https://img.shields.io/github/v/release/hfatih/aesthetic-cream-icons?style=flat-square&label=s%C3%BCr%C3%BCm&color=ec4899" alt="Sürüm"></a>
+    <a href="https://github.com/hfatih/aesthetic-cream-icons/stargazers"><img src="https://img.shields.io/github/stars/hfatih/aesthetic-cream-icons?style=flat-square&label=y%C4%B1ld%C4%B1z&color=f472b6" alt="Yıldızlar"></a>
+    <a href="https://github.com/hfatih/aesthetic-cream-icons/commits"><img src="https://img.shields.io/github/last-commit/hfatih/aesthetic-cream-icons?style=flat-square&label=son%20commit&color=c07ce8" alt="Son Commit"></a>
   </p>
 </div>
 
@@ -60,7 +60,7 @@ VivreMotion kil sanatından, rüya gibi pastel tonlardan ve retro-fütüristik d
 
 ### 🌐 Canlı İnteraktif Web Galerisi
 Tüm 448 ikonu tarayıcınızda 15 tuşlu sanal Stream Deck simülatöründe canlı olarak deneyin:  
-👉 **[GitHub Pages Canlı Galerisini Aç](https://hfatih.github.io/pink-cream-icons/)**
+👉 **[GitHub Pages Canlı Galerisini Aç](https://hfatih.github.io/aesthetic-cream-icons/)**
 
 ---
 
@@ -112,7 +112,7 @@ Tüm renk serileri eksiksiz 64 ikonik sembolü içerir:
 
 ## 📦 İndirilebilir Paketler (.evoxpack)
 
-Tüm paketleri doğrudan **[En Son Sürüm](https://github.com/Hfatih/pink-cream-icons/releases/latest)** sayfasından indirebilirsiniz:
+Tüm paketleri doğrudan **[En Son Sürüm](https://github.com/Hfatih/aesthetic-cream-icons/releases/latest)** sayfasından indirebilirsiniz:
 
 | Paket Adı | İkon Sayısı | Açıklama |
 | :--- | :---: | :--- |
@@ -127,7 +127,7 @@ Tüm paketleri doğrudan **[En Son Sürüm](https://github.com/Hfatih/pink-cream
 ## 🚀 Nasıl Kurulur?
 
 ### 1. evoX / evoXdeck (Önerilen - Tek Tıkla Kurulum)
-1. **[Sürümler Sayfasından](https://github.com/Hfatih/pink-cream-icons/releases/latest)** istediğiniz `.evoxpack` dosyasını indirin.
+1. **[Sürümler Sayfasından](https://github.com/Hfatih/aesthetic-cream-icons/releases/latest)** istediğiniz `.evoxpack` dosyasını indirin.
 2. **evoXdeck** uygulamasını açın.
 3. `.evoxpack` dosyasını uygulama penceresine sürükleyip bırakın veya Paket Yöneticisi içerisinden içe aktarın.
 4. Tüm ikonlar anında kategorilerine göre düzenlenip kullanıma hazır hale gelir!

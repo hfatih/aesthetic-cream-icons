@@ -6,8 +6,8 @@
   <p>
     <strong>Language / Dil:</strong> <a href="README.md"><strong>English</strong></a> | <a href="README.tr.md"><strong>Türkçe</strong></a>
     &nbsp;•&nbsp;
-    <a href="https://github.com/Hfatih/pink-cream-icons/releases/latest">Download .evoxpack</a> ·
-    <a href="https://hfatih.github.io/pink-cream-icons/">Live Interactive Gallery</a> ·
+    <a href="https://github.com/Hfatih/aesthetic-cream-icons/releases/latest">Download .evoxpack</a> ·
+    <a href="https://hfatih.github.io/aesthetic-cream-icons/">Live Interactive Gallery</a> ·
     <a href="#how-to-install">How to Install</a>
   </p>
 
@@ -21,11 +21,11 @@
     <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License MIT">
   </p>
   <p align="center">
-    <img src="https://hits.sh/github.com/hfatih/pink-cream-icons.svg?style=flat-square&label=views&color=c07ce8" alt="Views">
-    <a href="https://github.com/hfatih/pink-cream-icons/releases"><img src="https://img.shields.io/github/downloads/hfatih/pink-cream-icons/total?style=flat-square&label=downloads&color=a855f7" alt="Downloads"></a>
-    <a href="https://github.com/hfatih/pink-cream-icons/releases/latest"><img src="https://img.shields.io/github/v/release/hfatih/pink-cream-icons?style=flat-square&label=release&color=ec4899" alt="Release"></a>
-    <a href="https://github.com/hfatih/pink-cream-icons/stargazers"><img src="https://img.shields.io/github/stars/hfatih/pink-cream-icons?style=flat-square&label=stars&color=f472b6" alt="Stars"></a>
-    <a href="https://github.com/hfatih/pink-cream-icons/commits"><img src="https://img.shields.io/github/last-commit/hfatih/pink-cream-icons?style=flat-square&label=last%20commit&color=c07ce8" alt="Last commit"></a>
+    <img src="https://hits.sh/github.com/hfatih/aesthetic-cream-icons.svg?style=flat-square&label=views&color=c07ce8" alt="Views">
+    <a href="https://github.com/hfatih/aesthetic-cream-icons/releases"><img src="https://img.shields.io/github/downloads/hfatih/aesthetic-cream-icons/total?style=flat-square&label=downloads&color=a855f7" alt="Downloads"></a>
+    <a href="https://github.com/hfatih/aesthetic-cream-icons/releases/latest"><img src="https://img.shields.io/github/v/release/hfatih/aesthetic-cream-icons?style=flat-square&label=release&color=ec4899" alt="Release"></a>
+    <a href="https://github.com/hfatih/aesthetic-cream-icons/stargazers"><img src="https://img.shields.io/github/stars/hfatih/aesthetic-cream-icons?style=flat-square&label=stars&color=f472b6" alt="Stars"></a>
+    <a href="https://github.com/hfatih/aesthetic-cream-icons/commits"><img src="https://img.shields.io/github/last-commit/hfatih/aesthetic-cream-icons?style=flat-square&label=last%20commit&color=c07ce8" alt="Last commit"></a>
   </p>
 </div>
 
@@ -60,7 +60,7 @@ Inspired by cozy gamer desk setups, dream pop palettes, VivreMotion clay aesthet
 
 ### 🌐 Live Interactive Web Gallery
 Preview, search, filter, and test all 448 icons directly on an interactive 15-key virtual Stream Deck:  
-👉 **[Open Live Gallery on GitHub Pages](https://hfatih.github.io/pink-cream-icons/)**
+👉 **[Open Live Gallery on GitHub Pages](https://hfatih.github.io/aesthetic-cream-icons/)**
 
 ---
 
@@ -112,7 +112,7 @@ Every colorway features the complete set of 64 carefully curated, production-rea
 
 ## 📦 Available Packages (.evoxpack)
 
-Download any ready-to-use package from the **[Latest Release](https://github.com/Hfatih/pink-cream-icons/releases/latest)**:
+Download any ready-to-use package from the **[Latest Release](https://github.com/Hfatih/aesthetic-cream-icons/releases/latest)**:
 
 | Package | Icon Count | Description |
 | :--- | :---: | :--- |
@@ -127,7 +127,7 @@ Download any ready-to-use package from the **[Latest Release](https://github.com
 ## 🚀 How to Install
 
 ### 1. evoX / evoXdeck (Recommended 1-Click Install)
-1. Download any `.evoxpack` file from the **[Releases Page](https://github.com/Hfatih/pink-cream-icons/releases/latest)**.
+1. Download any `.evoxpack` file from the **[Releases Page](https://github.com/Hfatih/aesthetic-cream-icons/releases/latest)**.
 2. Open **evoXdeck**.
 3. Drag and drop the `.evoxpack` file directly into the application window or use the Pack Manager import button.
 4. All icons are immediately indexed and organized by category!
