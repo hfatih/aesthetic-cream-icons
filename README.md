@@ -46,8 +46,8 @@
   <h3>🍑 Atomic Peach (Apricot Peach & Silver Finishes)</h3>
   <img src="showcase_peach_icons.png" alt="Atomic Peach Icons Showcase" width="100%">
   <br><br>
-  <h3>🌸 Pink Cream (Candy Pink & Warm Ivory Cream Finishes)</h3>
-  <img src="showcase_pink_cream.png" alt="Pink Cream Icons Showcase" width="100%">
+  <h3>🌸 Atomic Pink (Candy Pink Finish)</h3>
+  <img src="showcase_pink_icons.png" alt="Atomic Pink Icons Showcase" width="100%">
 </div>
 
 ---

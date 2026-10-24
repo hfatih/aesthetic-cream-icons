@@ -46,8 +46,8 @@
   <h3>🍑 Atomic Peach (Kayısı Şeftali & Gümüş Bitişleri)</h3>
   <img src="showcase_peach_icons.png" alt="Atomic Peach İkon Vitrini" width="100%">
   <br><br>
-  <h3>🌸 Pink Cream (Şeker Pembesi & Sıcak Fildişi Krem Bitişleri)</h3>
-  <img src="showcase_pink_cream.png" alt="Pink Cream İkon Vitrini" width="100%">
+  <h3>🌸 Atomic Pink (Şeker Pembesi Bitişi)</h3>
+  <img src="showcase_pink_icons.png" alt="Atomic Pink İkon Vitrini" width="100%">
 </div>
 
 ---
