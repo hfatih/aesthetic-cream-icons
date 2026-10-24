@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "packageType": "icon_pack",
   "name": "Pink Cream Icons",
-  "description": "3D clay and glossy candy aesthetic icon suite for Elgato Stream Deck & evoX. Features curated streamer, gaming, creator, and productivity symbols in three signature finishes: Cream (Warm Ivory), Pink (Bubblegum Candy), and Peach (Atomic Apricot).",
-  "version": "1.1.0",
+  "description": "3D clay and glossy candy aesthetic icon suite for Elgato Stream Deck & evoX. Features curated streamer, gaming, creator, and productivity symbols in four signature finishes: Cream (Warm Ivory), Pink (Bubblegum Candy), Peach (Atomic Apricot), and Mint (Sweet Seafoam).",
+  "version": "1.2.0",
   "author": {
     "id": "hfatih",
     "name": "Fatih Han",
@@ -335,6 +335,326 @@
         "id": "pink-cream-pink-cream-cream-064-blank",
         "name": "Cream 064 Blank",
         "path": "assets/icons/pink-cream-cream-064-blank.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-001-twitch",
+        "name": "Mint 001 Twitch",
+        "path": "assets/icons/pink-cream-mint-001-twitch.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-002-youtube",
+        "name": "Mint 002 Youtube",
+        "path": "assets/icons/pink-cream-mint-002-youtube.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-003-spotify",
+        "name": "Mint 003 Spotify",
+        "path": "assets/icons/pink-cream-mint-003-spotify.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-004-netflix",
+        "name": "Mint 004 Netflix",
+        "path": "assets/icons/pink-cream-mint-004-netflix.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-005-prime-video",
+        "name": "Mint 005 Prime Video",
+        "path": "assets/icons/pink-cream-mint-005-prime-video.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-006-disney-plus",
+        "name": "Mint 006 Disney Plus",
+        "path": "assets/icons/pink-cream-mint-006-disney-plus.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-007-kitty-headset",
+        "name": "Mint 007 Kitty Headset",
+        "path": "assets/icons/pink-cream-mint-007-kitty-headset.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-008-headphones",
+        "name": "Mint 008 Headphones",
+        "path": "assets/icons/pink-cream-mint-008-headphones.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-009-webcam",
+        "name": "Mint 009 Webcam",
+        "path": "assets/icons/pink-cream-mint-009-webcam.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-010-camera",
+        "name": "Mint 010 Camera",
+        "path": "assets/icons/pink-cream-mint-010-camera.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-011-microphone",
+        "name": "Mint 011 Microphone",
+        "path": "assets/icons/pink-cream-mint-011-microphone.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-012-usb-mic",
+        "name": "Mint 012 Usb Mic",
+        "path": "assets/icons/pink-cream-mint-012-usb-mic.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-013-audio-waveform",
+        "name": "Mint 013 Audio Waveform",
+        "path": "assets/icons/pink-cream-mint-013-audio-waveform.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-014-music",
+        "name": "Mint 014 Music",
+        "path": "assets/icons/pink-cream-mint-014-music.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-015-music-note-alt",
+        "name": "Mint 015 Music Note Alt",
+        "path": "assets/icons/pink-cream-mint-015-music-note-alt.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-016-play-pause",
+        "name": "Mint 016 Play Pause",
+        "path": "assets/icons/pink-cream-mint-016-play-pause.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-017-previous",
+        "name": "Mint 017 Previous",
+        "path": "assets/icons/pink-cream-mint-017-previous.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-018-next",
+        "name": "Mint 018 Next",
+        "path": "assets/icons/pink-cream-mint-018-next.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-019-shuffle",
+        "name": "Mint 019 Shuffle",
+        "path": "assets/icons/pink-cream-mint-019-shuffle.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-020-repeat",
+        "name": "Mint 020 Repeat",
+        "path": "assets/icons/pink-cream-mint-020-repeat.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-021-steam",
+        "name": "Mint 021 Steam",
+        "path": "assets/icons/pink-cream-mint-021-steam.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-022-epic-games",
+        "name": "Mint 022 Epic Games",
+        "path": "assets/icons/pink-cream-mint-022-epic-games.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-023-ea-app",
+        "name": "Mint 023 Ea App",
+        "path": "assets/icons/pink-cream-mint-023-ea-app.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-024-discord",
+        "name": "Mint 024 Discord",
+        "path": "assets/icons/pink-cream-mint-024-discord.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-025-computer-on",
+        "name": "Mint 025 Computer On",
+        "path": "assets/icons/pink-cream-mint-025-computer-on.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-026-computer-off",
+        "name": "Mint 026 Computer Off",
+        "path": "assets/icons/pink-cream-mint-026-computer-off.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-027-controls",
+        "name": "Mint 027 Controls",
+        "path": "assets/icons/pink-cream-mint-027-controls.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-028-settings",
+        "name": "Mint 028 Settings",
+        "path": "assets/icons/pink-cream-mint-028-settings.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-029-home",
+        "name": "Mint 029 Home",
+        "path": "assets/icons/pink-cream-mint-029-home.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-030-sleep",
+        "name": "Mint 030 Sleep",
+        "path": "assets/icons/pink-cream-mint-030-sleep.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-031-lock",
+        "name": "Mint 031 Lock",
+        "path": "assets/icons/pink-cream-mint-031-lock.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-032-save",
+        "name": "Mint 032 Save",
+        "path": "assets/icons/pink-cream-mint-032-save.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-033-search",
+        "name": "Mint 033 Search",
+        "path": "assets/icons/pink-cream-mint-033-search.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-034-trash",
+        "name": "Mint 034 Trash",
+        "path": "assets/icons/pink-cream-mint-034-trash.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-035-battery",
+        "name": "Mint 035 Battery",
+        "path": "assets/icons/pink-cream-mint-035-battery.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-036-tiktok",
+        "name": "Mint 036 Tiktok",
+        "path": "assets/icons/pink-cream-mint-036-tiktok.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-037-chat",
+        "name": "Mint 037 Chat",
+        "path": "assets/icons/pink-cream-mint-037-chat.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-038-email",
+        "name": "Mint 038 Email",
+        "path": "assets/icons/pink-cream-mint-038-email.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-039-gmail",
+        "name": "Mint 039 Gmail",
+        "path": "assets/icons/pink-cream-mint-039-gmail.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-040-microsoft-outlook",
+        "name": "Mint 040 Microsoft Outlook",
+        "path": "assets/icons/pink-cream-mint-040-microsoft-outlook.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-041-notes",
+        "name": "Mint 041 Notes",
+        "path": "assets/icons/pink-cream-mint-041-notes.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-042-calendar",
+        "name": "Mint 042 Calendar",
+        "path": "assets/icons/pink-cream-mint-042-calendar.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-043-power",
+        "name": "Mint 043 Power",
+        "path": "assets/icons/pink-cream-mint-043-power.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-044-brightness",
+        "name": "Mint 044 Brightness",
+        "path": "assets/icons/pink-cream-mint-044-brightness.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-045-windows",
+        "name": "Mint 045 Windows",
+        "path": "assets/icons/pink-cream-mint-045-windows.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-046-pink-sparkle",
+        "name": "Mint 046 Pink Sparkle",
+        "path": "assets/icons/pink-cream-mint-046-pink-sparkle.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-047-cream-sparkle",
+        "name": "Mint 047 Cream Sparkle",
+        "path": "assets/icons/pink-cream-mint-047-cream-sparkle.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-048-up-arrow",
+        "name": "Mint 048 Up Arrow",
+        "path": "assets/icons/pink-cream-mint-048-up-arrow.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-049-down-arrow",
+        "name": "Mint 049 Down Arrow",
+        "path": "assets/icons/pink-cream-mint-049-down-arrow.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-050-right-arrow",
+        "name": "Mint 050 Right Arrow",
+        "path": "assets/icons/pink-cream-mint-050-right-arrow.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-051-google-drive",
+        "name": "Mint 051 Google Drive",
+        "path": "assets/icons/pink-cream-mint-051-google-drive.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-052-google-photos",
+        "name": "Mint 052 Google Photos",
+        "path": "assets/icons/pink-cream-mint-052-google-photos.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-053-dropbox",
+        "name": "Mint 053 Dropbox",
+        "path": "assets/icons/pink-cream-mint-053-dropbox.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-054-cloud-transfer",
+        "name": "Mint 054 Cloud Transfer",
+        "path": "assets/icons/pink-cream-mint-054-cloud-transfer.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-055-upload",
+        "name": "Mint 055 Upload",
+        "path": "assets/icons/pink-cream-mint-055-upload.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-056-download",
+        "name": "Mint 056 Download",
+        "path": "assets/icons/pink-cream-mint-056-download.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-057-folder",
+        "name": "Mint 057 Folder",
+        "path": "assets/icons/pink-cream-mint-057-folder.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-058-folder-open",
+        "name": "Mint 058 Folder Open",
+        "path": "assets/icons/pink-cream-mint-058-folder-open.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-059-documents",
+        "name": "Mint 059 Documents",
+        "path": "assets/icons/pink-cream-mint-059-documents.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-060-documents-folded",
+        "name": "Mint 060 Documents Folded",
+        "path": "assets/icons/pink-cream-mint-060-documents-folded.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-061-calculator",
+        "name": "Mint 061 Calculator",
+        "path": "assets/icons/pink-cream-mint-061-calculator.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-062-microsoft-office",
+        "name": "Mint 062 Microsoft Office",
+        "path": "assets/icons/pink-cream-mint-062-microsoft-office.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-063-left-arrow",
+        "name": "Mint 063 Left Arrow",
+        "path": "assets/icons/pink-cream-mint-063-left-arrow.png"
+      },
+      {
+        "id": "pink-cream-pink-cream-mint-064-blank",
+        "name": "Mint 064 Blank",
+        "path": "assets/icons/pink-cream-mint-064-blank.png"
       },
       {
         "id": "pink-cream-pink-cream-peach-001-twitch",
@@ -1301,5 +1621,5 @@
   },
   "coverImage": "cover.png",
   "createdWith": "evox-deck-v2",
-  "createdAt": "2026-10-23T23:50:48.827174Z"
+  "createdAt": "2026-10-24T00:28:30.223403Z"
 }
