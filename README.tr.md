@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo_pink_cream.png" alt="Aesthetic 3D Icon Pack Logosu" width="112" height="112">
   <h1>Pink & Purple & Blue & Mint & Peach Icon Packs</h1>
-  <p><strong>Elgato Stream Deck ve evoX için 3D Sırlı Kil & Retro-Fütüristik Squircle İkon Koleksiyonu (448'lik Mega Paket + Bağımsız Atomic Serileri).</strong></p>
+  <p><strong>evoX ve Makro Tuş Takımları için 3D Sırlı Kil & Retro-Fütüristik Squircle İkon Koleksiyonu (448'lik Mega Paket + Bağımsız Atomic Serileri).</strong></p>
 
   <p>
     <strong>Dil / Language:</strong> <a href="README.md"><strong>English</strong></a> | <a href="README.tr.md"><strong>Türkçe</strong></a>
@@ -54,7 +54,7 @@
 
 ## 📖 Genel Bakış
 
-**Pink & Purple & Blue & Mint & Peach Icon Packs**, masaüstü yayıncı ve oyuncu ortamları için özel olarak geliştirilmiş 3D sırlı kil ve retro-fütüristik emaye squircle ikon paketidir. **Elgato Stream Deck**, **evoXdeck**, **Loupedeck** ve **Touch Portal** cihazlarıyla tam uyumludur.
+**Pink & Purple & Blue & Mint & Peach Icon Packs**, masaüstü yayıncı ve oyuncu ortamları için özel olarak geliştirilmiş 3D sırlı kil ve retro-fütüristik emaye squircle ikon paketidir. **evoXdeck**, **Makro Tuş Takımları**, **Loupedeck** ve **Touch Portal** cihazlarıyla tam uyumludur.
 
 VivreMotion kil sanatından, rüya gibi pastel tonlardan ve retro-fütüristik donanım tasarımlarından esinlenen her ikon, özel squircle geometrisi ($p=3.8, r=122$) ve $144\times 144$ Retina çözünürlüğünde 3D normal haritalama, ortam aydınlatması ve pürüzsüz yüzey yansımalarıyla hazırlanmıştır.
 
@@ -132,9 +132,9 @@ Tüm paketleri doğrudan **[En Son Sürüm](https://github.com/Hfatih/aesthetic-
 3. `.evoxpack` dosyasını uygulama penceresine sürükleyip bırakın veya Paket Yöneticisi içerisinden içe aktarın.
 4. Tüm ikonlar anında kategorilerine göre düzenlenip kullanıma hazır hale gelir!
 
-### 2. Elgato Stream Deck
+### 2. Makro Tuş Takımları
 1. Depoyu veya sürüm arşivini indirin.
-2. **Elgato Stream Deck** yazılımını açın.
+2. Deck / makro tuş takımı yazılımınızı açın.
 3. İstediğiniz tuşu seçin.
 4. `icons/` klasöründen dilediğiniz 144×144 PNG ikonunu tuşun üzerine sürükleyin.
 
@@ -148,7 +148,7 @@ Tüm paketleri doğrudan **[En Son Sürüm](https://github.com/Hfatih/aesthetic-
 
 | Özellik | Değer |
 | :--- | :--- |
-| **Çözünürlük** | $144\times 144$ Piksel (Elgato Stream Deck yerel standardı) |
+| **Çözünürlük** | $144\times 144$ Piksel (Makro Deck 144x144 doğal standardı) |
 | **Örnekleme** | $288\times 288$ Alt-piksel render & Lanczos filtreleme |
 | **Squircle Geometrisi** | $p = 3.8$ Süper elips |
 | **Renk Modeli** | 32-bit RGBA PNG pürüzsüz alfa şeffaflığı |

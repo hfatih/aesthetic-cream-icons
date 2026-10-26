@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo_pink_cream.png" alt="Aesthetic 3D Icon Pack Logo" width="112" height="112">
   <h1>Pink & Purple & Blue & Mint & Peach Icon Packs</h1>
-  <p><strong>Aesthetic 3D Glazed Clay & Retro-Futuristic Squircle Icon Collection for Elgato Stream Deck & evoX (448 Mega Suite + Atomic Colorways).</strong></p>
+  <p><strong>Aesthetic 3D Glazed Clay & Retro-Futuristic Squircle Icon Collection for evoX & Macro Keypads (448 Mega Suite + Atomic Colorways).</strong></p>
 
   <p>
     <strong>Language / Dil:</strong> <a href="README.md"><strong>English</strong></a> | <a href="README.tr.md"><strong>Türkçe</strong></a>
@@ -54,7 +54,7 @@
 
 ## 📖 Overview
 
-The **Pink & Purple & Blue & Mint & Peach Icon Packs** collection is an ultra-premium suite of 3D glazed clay and retro-futuristic enamel squircle icons designed specifically for **Elgato Stream Deck**, **evoXdeck**, **Loupedeck**, and **Touch Portal**.
+The **Pink & Purple & Blue & Mint & Peach Icon Packs** collection is an ultra-premium suite of 3D glazed clay and retro-futuristic enamel squircle icons designed specifically for **evoXdeck**, **Stream & Macro Decks**, **Loupedeck**, and **Touch Portal**.
 
 Inspired by cozy gamer desk setups, dream pop palettes, VivreMotion clay aesthetics, and retro-futuristic hardware, each icon is rendered on a precision squircle base ($p=3.8, r=122$) at native $144\times 144$ Retina resolution with sub-pixel 3D normal shading, ambient occlusion, and specular glaze highlights.
 
@@ -132,9 +132,9 @@ Download any ready-to-use package from the **[Latest Release](https://github.com
 3. Drag and drop the `.evoxpack` file directly into the application window or use the Pack Manager import button.
 4. All icons are immediately indexed and organized by category!
 
-### 2. Elgato Stream Deck
+### 2. Macro Decks & Keypads
 1. Download and extract the repository or release archive.
-2. Open the **Elgato Stream Deck** application.
+2. Open your deck / macro keypad application.
 3. Select any target key.
 4. Drag and drop any 144×144 PNG icon from the `icons/` folder directly onto the key slot.
 
@@ -148,7 +148,7 @@ Download any ready-to-use package from the **[Latest Release](https://github.com
 
 | Property | Value |
 | :--- | :--- |
-| **Grid Resolution** | $144\times 144$ Pixels (Native Elgato Stream Deck standard) |
+| **Grid Resolution** | $144\times 144$ Pixels (Native Macro Deck 144x144 standard) |
 | **Render Supersampling** | $288\times 288$ Sub-pixel rendering downsampled with Lanczos / Area |
 | **Superellipse Power** | $p = 3.8$ (Precision squircle geometry) |
 | **Color Model** | 32-bit RGBA PNG with smooth alpha transparency |
