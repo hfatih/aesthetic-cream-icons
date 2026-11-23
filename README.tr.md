@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Platform-Stream%20Deck%20%7C%20evoX-0078D6?style=flat-square" alt="Platformlar">
     <img src="https://img.shields.io/badge/%C3%87%C3%B6z%C3%BCn%C3%BCrl%C3%BCk-Retina%20144x144%20PNG-10B981?style=flat-square" alt="Çözünürlük">
     <img src="https://img.shields.io/badge/Do%C4%9Frulama-%25100%20evoX%20Zod-22c55e?style=flat-square" alt="evoX Doğrulandı">
-    <img src="https://img.shields.io/badge/Lisans-MIT-blue?style=flat-square" alt="Lisans MIT">
+    <img src="https://img.shields.io/badge/Lisans-GPL--3.0-blue?style=flat-square" alt="GPL-3.0-only">
   </p>
   <p align="center">
     <img src="https://hits.sh/github.com/hfatih/aesthetic-cream-icons.svg?style=flat-square&label=g%C3%B6r%C3%BCnt%C3%BClenme&color=c07ce8" alt="Görüntülenme">
@@ -154,10 +154,14 @@ Tüm paketleri doğrudan **[En Son Sürüm](https://github.com/Hfatih/aesthetic-
 | **Renk Modeli** | 32-bit RGBA PNG pürüzsüz alfa şeffaflığı |
 | **evoX Uyumluluğu** | Resmi evoX Zod şeması ile %100 doğrulanmış |
 | **Geliştirici** | [Fatih Han (Hfatih)](https://github.com/Hfatih) |
-| **Lisans** | [MIT Lisansı](LICENSE) (Kişisel ve ticari yayınlarda ücretsiz) |
+| **Lisans** | [GNU GPL v3.0](LICENSE) (Kişisel ve ticari yayınlarda ücretsiz) |
 
 ---
 
 <div align="center">
   <p>💖 <a href="https://github.com/Hfatih">Hfatih</a> tarafından tasarlandı</p>
 </div>
+
+## Lisans
+
+Bu sürümde bize ait kod ve özgün içerik [GNU GPL v3.0](LICENSE) (GPL-3.0-only) altında yayımlanır. Üçüncü taraf kod, yazı tipleri, görseller, veriler ve marka öğeleri kendi lisans ve atıflarına tabidir. [Önceki lisans ve telif bildirimi](licenses/previous-license.txt).

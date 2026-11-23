@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Platforms-Stream%20Deck%20%7C%20evoX-0078D6?style=flat-square" alt="Platforms">
     <img src="https://img.shields.io/badge/Resolution-Retina%20144x144%20PNG-10B981?style=flat-square" alt="Resolution">
     <img src="https://img.shields.io/badge/Validation-100%25%20evoX%20Zod-22c55e?style=flat-square" alt="evoX Validated">
-    <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License MIT">
+    <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square" alt="GPL-3.0-only">
   </p>
   <p align="center">
     <img src="https://hits.sh/github.com/hfatih/aesthetic-cream-icons.svg?style=flat-square&label=views&color=c07ce8" alt="Views">
@@ -154,10 +154,14 @@ Download any ready-to-use package from the **[Latest Release](https://github.com
 | **Color Model** | 32-bit RGBA PNG with smooth alpha transparency |
 | **evoX Validation** | Compliant with official evoX Zod validator schema |
 | **Author** | [Fatih Han (Hfatih)](https://github.com/Hfatih) |
-| **License** | [MIT License](LICENSE) (Free for personal and commercial streaming) |
+| **License** | [GNU GPL v3.0](LICENSE) (Free for personal and commercial streaming) |
 
 ---
 
 <div align="center">
   <p>Crafted with 💖 by <a href="https://github.com/Hfatih">Hfatih</a></p>
 </div>
+
+## License
+
+Project-owned code and original material in this revision are licensed under [GNU GPL v3.0](LICENSE) (GPL-3.0-only). Third-party code, fonts, imagery, data, and brand assets retain their own terms and attributions. [Previous license and copyright notice](licenses/previous-license.txt).
